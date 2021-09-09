@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: Herzlich willkommen!
+    title: Namaste!
     content: >
       Ich würde mich freuen, mit dir mein Wissen zu erleben:
 
