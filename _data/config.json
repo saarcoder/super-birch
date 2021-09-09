@@ -1,0 +1,72 @@
+{
+    "title": "Yoga mit Shilpa",
+    "color_scheme": "light",
+    "accent_color": "yellow",
+    "base_font": "fraunces",
+    "header": {
+        "title": "Agency",
+        "logo": "images/logo.png",
+        "logo_alt": "Yoga mit Shilpa",
+        "branding": "images/lotos.png",
+        "branding_alt": "Symbolbild Lotosblüte",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "icon",
+                "icon": "lotos"
+            },
+            {
+                "label": "Kursplan",
+                "url": "/portfolio/",
+                "style": "link"
+            },
+            {
+                "label": "Philosophie",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
+                "label": "Yoga-Therapie",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
+                "label": "Specials",
+                "url": "#",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "Kontakt",
+                "url": "/contact/",
+                "style": "link"
+            }
+        ]
+    },
+    "footer": {
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=agency&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://facebook.com/",
+                "style": "icon",
+                "icon": "facebook",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/",
+                "style": "icon",
+                "icon": "instagram",
+                "new_window": true
+            }
+        ]
+    },
+    "domain": "https://diligent-artichoke-f7734.netlify.app"
+}
