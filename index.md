@@ -18,7 +18,6 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     projects_number: 3
-    view_all_url: portfolio
     title: Namaste!
   - type: grid_section
     section_id: clients
