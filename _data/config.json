@@ -35,11 +35,7 @@
             {
                 "label": "Specials",
                 "url": "#",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
+                "style": "link"
             },
             {
                 "label": "Kontakt",
