@@ -63,7 +63,12 @@
       margin: 0 calc(3vw + 3rem);
     }
 
-
+&__info {
+    .site-footer__copyright,
+    > a {
+      margin: 0 10px 0.25em 0;
+    }
+  }
     &__social {
       -ms-flex: 0 0 auto;
       flex: 0 0 auto;
