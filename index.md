@@ -17,7 +17,7 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
-    projects_number: 6
+    projects_number: 3
     view_all_label: View All
     view_all_url: portfolio
     title: Namaste!
