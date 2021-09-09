@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: Namaste!
     content: >
-      ##### Herzlich willkommen!
+      ##### Herzlich willkommen,
 
 
       Ich würde mich freuen, mit dir mein Wissen zu erleben:
