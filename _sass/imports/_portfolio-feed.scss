@@ -37,14 +37,12 @@
     &:before {
       content: "";
       display: block;
-      padding-top: 60%;
+      padding-top: 85%;
     }
 
     img {
       height: 100%;
       left: 0;
-      -o-object-fit: cover;
-      object-fit: cover;
       position: absolute;
       top: 0;
       width: 100%;
@@ -96,9 +94,9 @@
   .portfolio-feed {
     &--tiles {
       .project-card {
-        -ms-flex: 0 0 50%;
-        flex: 0 0 50%;
-        max-width: 50%;
+        -ms-flex: 0 0 33%;
+        flex: 0 0 33%;
+        max-width: 33%;
       }
     }
 

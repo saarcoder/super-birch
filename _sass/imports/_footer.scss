@@ -1,8 +1,10 @@
 .site-footer {
-  border-top: 1px solid $color-gray-100;
-  padding-bottom: 1.33333em;
-  padding-top: 2.5em;
+  padding: 3rem 0 2.5rem 0;
   background: #ed9700;
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
+  left: 0;
 
   a {
     &:not(.button) {

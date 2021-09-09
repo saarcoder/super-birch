@@ -45,19 +45,19 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=agency&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "Shilpa Valia-Wendland",
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://facebook.com/",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/yogamitshilpa",
                 "style": "icon",
                 "icon": "facebook",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/yogawithshilpa/",
                 "style": "icon",
                 "icon": "instagram",
                 "new_window": true

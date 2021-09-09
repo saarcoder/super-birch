@@ -14,9 +14,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
-  max-width: 998px;
   background: #908167;
-  margin: 0 auto;
 }
 
 @each $font, $stack in $fonts {
