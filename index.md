@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: Herzlich willkommen!
+    title: Namaste!
     content: >
       Ich würde mich freuen, mit dir mein Wissen zu erleben:
 
@@ -14,7 +14,7 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
-    title: Namaste!
+    title: Herzlich willkommen!
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio

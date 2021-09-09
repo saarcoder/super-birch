@@ -24,11 +24,11 @@
     width: 232px;
     height: 24px;
     float: right;
-    margin: 30px 10px 0 0;
+    margin-top: 18px;
     color: #222;
     font-family: 'Chicle', cursive;
-    font-weight: bold;
-    font-size: 20px;
+    font-size: 30px;
+    letter-spacing: .6px;
 }
 
 #top {
@@ -121,11 +121,11 @@
     border-bottom: 1px solid;
 
     &__item {
-      font-size: 16px;
+      font-size: .9rem;
       text-transform: uppercase;
       color: #555;
       line-height: 1.2;
-      margin-left: 1.5em;
+      margin: 0 .75em;
     }
 
     .button--primary {
