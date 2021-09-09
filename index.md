@@ -9,7 +9,7 @@ sections:
       ##### Herzlich willkommen,
 
 
-      Ich würde mich freuen, mit dir mein Wissen zu erleben:
+      ich würde mich freuen, mit dir mein Wissen zu erleben:
 
       durch die Yogapraxis kannst du jederzeit Ruhe finden. Du kannst ruhig
       schlafen. Du kannst mehr Energie, Kraft und Wohlbefinden durch
