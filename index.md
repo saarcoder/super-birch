@@ -19,19 +19,6 @@ sections:
     layout_style: tiles
     projects_number: 3
     title: Namaste!
-  - type: cta_section
-    section_id: cta
-    title: Let’s Work Together!
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
-    actions:
-      - label: Let's start
-        url: /contact
-        style: button
-    image: images/cta.svg
-    image_alt: Illustration
-    bg_color: light
 seo:
   title: Award Winning Agency Based in San Francisco
   description: >-
