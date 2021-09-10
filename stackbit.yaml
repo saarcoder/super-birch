@@ -115,6 +115,8 @@ models:
         name: phone
         label: Telefonnummer
         description: Die Telefonnummer, die im Footer erscheint
+      - type: string
+        name: 
       - type: list
         name: links
         label: Links
