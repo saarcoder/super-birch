@@ -131,7 +131,7 @@
       margin: 0 .75em;
     }
 
-    &__item:first-child {
+    &__item:first-child > a > .icon {
         width: 2em;
         height: 2em;        
     }
