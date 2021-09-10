@@ -114,6 +114,7 @@ models:
       - type: string
         name: phone
         label: Telefonnummer
+        description: Die Telefonnummer, die im Footer erscheint
       - type: list
         name: links
         label: Links
