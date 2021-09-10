@@ -123,6 +123,8 @@ models:
         name: slogan
         label: Slogan
         description: Der Slogan am Ende des Footers
+      - type: string
+        name: 
       - type: list
         name: links
         label: Links
