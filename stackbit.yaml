@@ -89,6 +89,8 @@ models:
         name: logo_alt
         label: Logo alt text
         description: The alt text of the logo image
+      - type: string
+        name: leitspruch
       - type: boolean
         name: has_nav
         label: Enable navigation menu
