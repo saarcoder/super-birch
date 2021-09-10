@@ -113,6 +113,7 @@ models:
         description: The copyright text displayed in the footer
       - type: string
         name: phone
+        label: Telefonnummer
       - type: list
         name: links
         label: Links
