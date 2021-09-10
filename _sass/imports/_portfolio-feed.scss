@@ -124,6 +124,7 @@
           .project-card__image {
             &:before {
               padding-top: calc(90% + 9px);
+    object-fit: contain;
             }
           }
         }
