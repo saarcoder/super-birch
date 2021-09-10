@@ -133,8 +133,7 @@
 
     &__item:first-child > a > .icon {
         width: 2em;
-        height: 2em;  
-        content:attr(view-box)      
+        height: 2em;        
     }
 
     .button--primary {
