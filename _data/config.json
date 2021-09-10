@@ -46,7 +46,9 @@
     },
     "footer": {
         "content": "Shilpa Valia-Wendland",
-        "phone": 
+        "phone": ,
+        "email": ,
+        "slogan": ,
         "has_social": true,
         "social_links": [
             {
