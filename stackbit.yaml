@@ -93,6 +93,8 @@ models:
         name: leitspruch
         label: Leitspruch
         description: Leitspruch oben rechts
+      - type: string
+        name: 
       - type: boolean
         name: has_nav
         label: Enable navigation menu
