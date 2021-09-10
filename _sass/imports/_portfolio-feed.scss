@@ -119,7 +119,7 @@
 
           .project-card__image {
             &:before {
-              padding-top: calc(90% + 9px);
+              padding-top: calc(73.75%);
             }
           }
         }
@@ -132,7 +132,6 @@
       margin: 0;
       -webkit-transition: .35s;
       transition: .35s;
-      aspect-ratio: 1 / 0.7375;
     }
 
     &__header {
