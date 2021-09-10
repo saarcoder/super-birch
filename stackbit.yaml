@@ -111,8 +111,8 @@ models:
         name: content
         label: Footer content
         description: The copyright text displayed in the footer
-      -type: string
-      
+      - type: string
+
       - type: list
         name: links
         label: Links
