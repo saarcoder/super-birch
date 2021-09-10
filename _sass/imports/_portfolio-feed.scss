@@ -37,12 +37,12 @@
     display: block;
     margin-bottom: 0.83333em;
     position: relative;
+    width: 100%;
 
     &:before {
       content: "";
       display: block;
-      width: 100%;
-      padding-top: (177 / 240) * 100%;
+      padding-top: 85%;
     }
 
     img {
@@ -50,7 +50,6 @@
       position: absolute;
       top: 0;
       right: 0;
-      bottom: 0;
     }
   }
 
