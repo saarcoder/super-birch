@@ -15,7 +15,7 @@
         <div class="site-footer__email">{{ site.data.config.footer.email }}</div>
         {% endif %}
         {% assign slogan_is_not_empty = site.data.config.footer.slogan | is_not_empty %}
-        {% if s_is_not_empty %}
+        {% if slogan_is_not_empty %}
         <div class="site-footer__phone">{{ site.data.config.footer.phone }}</div>
         {% endif %}
         {% for action in site.data.config.footer.links %}
