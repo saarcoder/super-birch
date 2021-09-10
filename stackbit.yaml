@@ -114,7 +114,7 @@ models:
       - type: string
         name: phone
         label: Telefonnummer
-        description: Die Telefonnummer im Footer erscheint
+        description: Die Telefonnummer im Footer 
       - type: string
         name: email
         label: E-Mail
