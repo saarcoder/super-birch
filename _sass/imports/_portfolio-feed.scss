@@ -38,13 +38,11 @@
     margin-bottom: 0.83333em;
     position: relative;
     width: 100%;
-    object-fit: contain;
 
     &:before {
       content: "";
       display: block;
       padding-top: 85%;
-    object-fit: contain;
     }
 
     img {
@@ -53,7 +51,6 @@
       position: absolute;
       top: 0;
       width: 100%;
-    object-fit: contain;
     }
   }
 
@@ -113,7 +110,6 @@
         -ms-flex: 0 0 60%;
         flex: 0 0 60%;
         max-width: 60%;
-    object-fit: contain;
 
         &:nth-child(4n+2),
         &:nth-child(4n+3) {
@@ -124,7 +120,6 @@
           .project-card__image {
             &:before {
               padding-top: calc(90% + 9px);
-    object-fit: contain;
             }
           }
         }
