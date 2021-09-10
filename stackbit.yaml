@@ -124,7 +124,9 @@ models:
         label: Slogan
         description: Der Slogan am Ende des Footers
       - type: string
-        name: Link
+        name: link
+        label: Link
+        description: Der Link auf das Impressum
       - type: list
         name: links
         label: Links
