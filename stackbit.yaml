@@ -124,7 +124,7 @@ models:
         label: Slogan
         description: Der Slogan am Ende des Footers
       - type: string
-        name: 
+        name: Link
       - type: list
         name: links
         label: Links
