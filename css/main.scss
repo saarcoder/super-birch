@@ -37,10 +37,6 @@ $container-md: 780px !default;
 // Container padding
 $container-padding: 3vw !default;
 
-@media only screen and (max-width: 767px) {
-    $container-padding: 5vw !default;
-}
-
 // Grid gap
 $grid-gap: 1.66667rem !default;
 
