@@ -20,7 +20,7 @@ sections:
     projects_number: 3
     title: Namaste!
 seo:
-  title: Award Winning Agency Based in San Francisco
+  title: Yoga mit Shilpa
   description: >-
     We are a brand and design practice. We work closely with you, your team to
     deliver inspiring work, which enables your organization to grow.
