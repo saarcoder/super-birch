@@ -40,7 +40,6 @@ seo:
       value: Award Winning Agency Based in San Francisco
     - name: 'twitter:description'
       value: >-
-        We are a brand and design practice. We work closely with you, your team
-        to deliver inspiring work, which enables your organization to grow.
+        Yogalehrerin in Saarbr&uuml;cken f&uuml;r Yoga mit Anusara-Elementen, Hormonyoga, Yogatherapie. Gewinne durch Yoga an Ruhe, Kraft und Wohlbefinden.
 layout: advanced
 ---
