@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Award Winning Agency Based in San Francisco
+      value: Yoga mit Shilpa!
     - name: 'twitter:description'
       value: >-
         Yogalehrerin in Saarbr&uuml;cken f&uuml;r Yoga mit Anusara-Elementen, Hormonyoga, Yogatherapie. Gewinne durch Yoga an Ruhe, Kraft und Wohlbefinden.
