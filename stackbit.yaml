@@ -110,7 +110,7 @@ models:
       - type: string
         name: content
         label: Footer content
-        description: Der Name, der im Footer erscheint
+        description: Der Name im Footer erscheint
       - type: string
         name: phone
         label: Telefonnummer
