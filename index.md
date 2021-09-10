@@ -28,7 +28,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Award Winning Agency Based in San Francisco
+      value: Yoga mit Shilpa!
       keyName: property
     - name: 'og:description'
       value: >-
