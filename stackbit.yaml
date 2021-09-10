@@ -116,7 +116,9 @@ models:
         label: Telefonnummer
         description: Die Telefonnummer, die im Footer erscheint
       - type: string
-        name: 
+        name: email
+        label: E-Mail
+        description: Die E-Mail-Adresse, die im Footer erscheint
       - type: list
         name: links
         label: Links
