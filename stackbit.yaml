@@ -121,6 +121,7 @@ models:
         description: Die E-Mail-Adresse, die im Footer erscheint
       - type: string
         name: slogan
+        
       - type: list
         name: links
         label: Links
