@@ -92,6 +92,7 @@ models:
       - type: string
         name: leitspruch
         label: Leitspruch
+        description: 
       - type: boolean
         name: has_nav
         label: Enable navigation menu
