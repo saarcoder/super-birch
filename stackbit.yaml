@@ -112,7 +112,7 @@ models:
         label: Footer content
         description: The copyright text displayed in the footer
       - type: string
-
+        name: phone
       - type: list
         name: links
         label: Links
