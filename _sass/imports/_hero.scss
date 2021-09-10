@@ -13,7 +13,13 @@
     line-height: 1.5;
   }
 
-  &__
+  &__body p {
+      word-wrap: break-word;
+    text-align: justify;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+  }
 
   &__body,
   &__actions {
