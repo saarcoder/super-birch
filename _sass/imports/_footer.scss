@@ -48,6 +48,10 @@
       font-size: 18px;
     }
   }
+  &__social {
+    a {
+      margin: 0 20px 0.25em 0;
+    }
 
   @media only screen and (min-width: 601px) {
     &__inside {
