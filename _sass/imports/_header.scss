@@ -131,7 +131,9 @@
       margin: 0 .75em;
     }
 
-    &__item:first-child
+    &__item:first-child {
+        
+    }
 
     .button--primary {
       padding: 0.275em 0.5em;
