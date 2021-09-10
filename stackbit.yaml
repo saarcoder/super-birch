@@ -94,7 +94,7 @@ models:
         label: Leitspruch
         description: Leitspruch oben rechts
       - type: string
-        name: words
+        name: wolke
         label: Spruchwolke
         description: Dateiname der Spruchwolke
       - type: boolean
