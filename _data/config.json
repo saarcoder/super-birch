@@ -10,7 +10,7 @@
         "branding": "images/lotos.png",
         "branding_alt": "Symbolbild Lotosblüte",
         "leitspruch": "Breathe... and smile!",
-        "wolke": "words", 
+        "wolke": "images/words", 
         "has_nav": true,
         "nav_links": [
             {
