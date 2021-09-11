@@ -773,7 +773,7 @@ models:
           - twitter
           - vimeo
           - youtube
-        default: dribbble
+        default: lotos
       - type: boolean
         name: new_window
         label: Make the link open a new tab/window
