@@ -134,6 +134,7 @@
     }
 
     &__item:first-child > a > .icon {
+        margin-left: -30px;
         width: 2em;
         height: 2em;            
     }
