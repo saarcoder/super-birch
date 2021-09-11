@@ -37,7 +37,8 @@
   &__social {
     a {
       margin: 0 20px 0 0;
-      
+        filter: invert(86%) sepia(37%) saturate(1485%) hue-rotate(323deg) brightness(104%) contrast(101%);
+    
     }
 
     .button {
