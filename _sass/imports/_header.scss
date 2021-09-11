@@ -93,7 +93,11 @@
     width: 30px;
   }
 
-  
+  &__close svg {
+          width: 3em;
+    height: 3em;
+    margin-bottom: -1rem;
+  }
 }
 .menu {
   list-style: none;
