@@ -766,7 +766,6 @@ models:
         name: icon
         label: Icon
         options:
-          - dribbble
           - facebook
           - github
           - instagram
