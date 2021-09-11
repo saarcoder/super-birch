@@ -767,7 +767,6 @@ models:
         label: Icon
         options:
           - facebook
-          - github
           - instagram
           - linkedin
           - pinterest
