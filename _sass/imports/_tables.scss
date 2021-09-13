@@ -8,6 +8,9 @@ table {
   width: 100%;
 }
 
+thead {
+    border-bottom: 1px solid #333;
+}
 caption {
   color: $color-gray-300;
   font-size: 0.88889em;
