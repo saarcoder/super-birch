@@ -15,7 +15,6 @@ layout: page
         <th>Tag</th>
         <th>Zeit</th>
         <th>Ort</th>
-        <th>Header content</th>
       </tr>
     </thead>
     <tbody>
@@ -23,10 +22,8 @@ layout: page
         <td>Body content</td>
         <td>Body content</td>
         <td>Body content</td>
-        <td>Body content</td>
       </tr>
       <tr>
-        <td>Body content</td>
         <td>Body content</td>
         <td>Body content</td>
         <td>Body content</td>
@@ -36,7 +33,6 @@ layout: page
       <tr>
         <td>Footer content</td>
         <td>Footer content</td>
-    <td>Footer content</td>
     <td>Footer content</td>
       </tr>
     </tfoot>
