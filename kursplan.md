@@ -16,7 +16,7 @@ layout: page
     <thead>
       <tr>
         <th>Tag</th>
-        <th></th>
+        <th>18:30 - 20:00</th>
         <th>Header content</th>
       </tr>
     </thead>
