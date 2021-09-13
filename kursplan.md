@@ -16,7 +16,7 @@ layout: page
     <thead>
       <tr>
         <th>Tag</th>
-        <th>Header content</th>
+        <th></th>
         <th>Header content</th>
       </tr>
     </thead>
