@@ -24,7 +24,7 @@ layout: page
       <tr>
         <td>Montag</td>
         <td>18:30 - 20:00</td>
-        <td><p>Evangelische Familienbildungsstätte</p><p>Mainzer Str. 269 Saarbrücken</p><p>›› Anfahrt</p></td>
+        <td><p>Evangelische Familienbildungsstätte</p><p>Mainzer Str. 269 Saarbrücken</p><p><a href="https://goo.gl/maps/83xotMyjPzG2" target="_blank">›› Anfahrt</a></p></td>
       </tr>
       <tr>
         <td>Mittwoch</td>
