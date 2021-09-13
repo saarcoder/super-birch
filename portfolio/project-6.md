@@ -6,7 +6,7 @@ thumb_image_alt: Subtle preview
 sections:
   - type: image_section
     image: images/work-photography-magazine-1.jpg
-    image_alt: Subtle 1
+    image_alt: Yoga am Saarufer
     caption: Yoga im Park
     width: wide
   - type: text_section
