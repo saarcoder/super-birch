@@ -25,7 +25,6 @@ layout: page
         <td>Body content</td>
         <td>Body content</td>
         <td>Body content</td>
-        <td>Body content</td>
       </tr>
       <tr>
         <td>Body content</td>
