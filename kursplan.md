@@ -24,7 +24,7 @@ layout: page
         <td>Body content</td>
       </tr>
       <tr>
-        <td>Body content</td>
+        <td>18:30 - 20:00 Uhr</td>
         <td>Body content</td>
         <td>Body content</td>
       </tr>
