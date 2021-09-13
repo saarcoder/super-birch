@@ -6,7 +6,7 @@ thumb_image_alt: Yoga auf der Wiese
 sections:
   - type: image_section
     image: images/work-photography-magazine-1.jpg
-    image_alt: Yoga am Saarufer
+    image_alt: Meine Kurse
     caption: Yoga im Park
     width: wide
   - type: text_section
