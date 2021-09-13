@@ -8,29 +8,29 @@ seo:
   extra: []
 layout: page
 ---
-<div class="responsive-table">
-  <table>
-    <thead>
-      <tr>
-        <th>Tag</th>
-        <th>Zeit</th>
-        <th>Ort</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Montag</td>
-        <td>18:30 - 20:00 Uhr</td>
-        <td>
+\<div class="responsive-table">
+  \<table>
+    \<thead>
+      \<tr>
+        \<th>Tag\</th>
+        \<th>Zeit\</th>
+        \<th>Ort\</th>
+      \</tr>
+    \</thead>
+    \<tbody>
+      \<tr>
+        \<td>Montag\</td>
+        \<td>18:30 - 20:00 Uhr\</td>
+        \<td>Evangelische Familienbildungsstätte\</td>
 
-      </tr>
+  \</tr>
 
-      <tr>
-        <td>Mittwoch</td>
-        <td>18:45 - 20:15 Uhr</td>
-        <td>
+  \<tr>
+    \<td>Mittwoch\</td>
+    \<td>18:45 - 20:15 Uhr\</td>
+    \<td>Raum für Begegnung​\</td>
 
-     </tr>      
+ \</tr>      
 
   </tbody>
 
