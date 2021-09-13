@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Philosophie
 image_alt: lorem-ipsum
 seo:
   title: ''
