@@ -50,7 +50,7 @@
             },
             {
                 "label": "Yoga-Therapie",
-                "url": "#",
+                "url": "therapie",
                 "style": "link",
                 "icon": "lotos",
                 "new_window": false,
