@@ -3,7 +3,7 @@ title: lorem-ipsum
 hide_title: true
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Kursplan
     content: >-
       ## Lorem ipsum
 
