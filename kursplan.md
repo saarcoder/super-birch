@@ -21,13 +21,4 @@ layout: page
       <tr>
         <td>Montag</td>
         <td>18:30 - 20:00 Uhr</td>
-        <td>Body content</td>
-      </tr>
-      <tr>
-        <td>Mittwoch</td>
-        <td>18:45 - 20:15 Uhr</td>
-        <td>Body content</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+        <td>
