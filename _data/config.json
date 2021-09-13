@@ -47,6 +47,14 @@
                 "label": "Kontakt",
                 "url": "/contact/",
                 "style": "link"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon": "lotos",
+                "new_window": false,
+                "no_follow": false
             }
         ]
     },
