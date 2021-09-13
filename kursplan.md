@@ -30,7 +30,6 @@ layout: page
         <td>Body content</td>
         <td>Body content</td>
         <td>Body content</td>
-        <td>Body content</td>
       </tr>
     </tbody>
     <tfoot>
