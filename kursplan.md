@@ -22,7 +22,7 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>Body content</td>
+        <td>Zeit</td>
         <td>Body content</td>
         <td>Body content</td>
       </tr>
