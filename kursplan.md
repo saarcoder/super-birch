@@ -16,13 +16,13 @@ layout: page
     <thead>
       <tr>
         <th>Tag</th>
-        <th>18:30 - 20:00</th>
+        <th></th>
         <th>Header content</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Zeit</td>
+        <td>18:30 - 20:00</td>
         <td>Body content</td>
         <td>Body content</td>
       </tr>
