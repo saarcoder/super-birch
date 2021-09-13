@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Yoga-Therapie
 image_alt: lorem-ipsum
 seo:
   title: ''
