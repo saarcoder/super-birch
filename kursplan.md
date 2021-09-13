@@ -24,7 +24,6 @@ layout: page
       <tr>
         <td></td>
         <td></td>
-        <td></td>
       </tr>
       <tr>
         <td>18:45 - 20:15</td>
