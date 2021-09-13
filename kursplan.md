@@ -8,11 +8,8 @@ seo:
   extra: []
 layout: page
 ---
-## Tables
-
 <div class="responsive-table">
   <table>
-      <caption>Table with thead, tfoot, and tbody</caption>
     <thead>
       <tr>
         <th>Tag</th>
