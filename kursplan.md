@@ -24,7 +24,7 @@ layout: page
       <tr>
         <td>Montag</td>
         <td>18:30 - 20:00</td>
-        <td>18:30 - 20:00</td>
+        <td></td>
       </tr>
       <tr>
         <td>Mittwoch</td>
