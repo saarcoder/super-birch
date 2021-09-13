@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="de">
     <head>    
 
         <title>{% assign title_is_not_empty = page.seo.title | is_not_empty %}{% if title_is_not_empty %}{{ page.seo.title }}{% else %}{{ page.title | append: ' | ' | append: site.data.config.title }}{% endif %}</title>
