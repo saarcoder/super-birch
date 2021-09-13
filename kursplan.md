@@ -10,7 +10,7 @@ seo:
 layout: page
 ---
 
-## Tables
+## Kursplan
 
 <div class="responsive-table">
   <table>
