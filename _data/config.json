@@ -34,11 +34,6 @@
                 "no_follow": false
             },
             {
-                "label": "Philosophie",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
                 "label": "Yoga-Therapie",
                 "url": "/about/",
                 "style": "link"
