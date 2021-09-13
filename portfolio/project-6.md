@@ -7,7 +7,7 @@ sections:
   - type: image_section
     image: images/work-photography-magazine-1.jpg
     image_alt: Meine Kurse
-    caption: Yoga im Park
+    caption: Kursplan
     width: wide
   - type: text_section
     content: >-
