@@ -8,9 +8,6 @@ seo:
   extra: []
 layout: page
 ---
-
-## Kursplan
-
 <div class="responsive-table">
   <table>
       <caption>Table with thead, tfoot, and tbody</caption>
