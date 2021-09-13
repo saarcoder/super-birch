@@ -2,7 +2,7 @@
 title: Meine Kurse
 date: '2021-02-06'
 thumb_image: images/01.jpg
-thumb_image_alt: Subtle preview
+thumb_image_alt: Yoga auf der Wiese
 sections:
   - type: image_section
     image: images/work-photography-magazine-1.jpg
