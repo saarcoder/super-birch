@@ -23,7 +23,7 @@ layout: page
     <tbody>
       <tr>
         <td></td>
-        <td></td>
+        <td>18:30 - 20:00</td>
       </tr>
       <tr>
         <td>18:45 - 20:15</td>
