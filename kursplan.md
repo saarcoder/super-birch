@@ -16,7 +16,7 @@ layout: page
     <thead>
       <tr>
         <th>Tag</th>
-        <th></th>
+        <th>Zeit</th>
         <th>Ort</th>
       </tr>
     </thead>
