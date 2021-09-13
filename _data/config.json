@@ -21,17 +21,17 @@
                 "icon": "lotos"
             },
             {
+                "label": "Kursplan",
+                "url": "/kursplan",
+                "style": "link"
+            },
+            {
                 "label": "Philosophie",
                 "url": "#",
                 "style": "link",
                 "icon": "lotos",
                 "new_window": false,
                 "no_follow": false
-            },
-            {
-                "label": "Kursplan",
-                "url": "/kursplan",
-                "style": "link"
             },
             {
                 "label": "Philosophie",
