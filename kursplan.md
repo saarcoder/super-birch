@@ -33,12 +33,6 @@ layout: page
       </tr>
     </tbody>
     <tfoot>
-      <tr>
-        <td>Footer content</td>
-        <td>Footer content</td>
-    <td>Footer content</td>
-    <td>Footer content</td>
-      </tr>
     </tfoot>
   </table>
 </div>
