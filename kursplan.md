@@ -19,8 +19,8 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>Body content</td>
-        <td>Body content</td>
+        <td>Montag</td>
+        <td>Mittwoch</td>
         <td>Body content</td>
       </tr>
       <tr>
