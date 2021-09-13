@@ -29,7 +29,7 @@ layout: page
       <tr>
         <td>Mittwoch</td>
         <td>18:45 - 20:15</td>
-        <td>Raum für Begegnung​</td>
+        <td><p>Raum für Begegnung​</td>
       </tr>
     </tbody>
     <tfoot>
