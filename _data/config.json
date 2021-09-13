@@ -10,7 +10,7 @@
         "branding": "images/lotos.png",
         "branding_alt": "Symbolbild Lotosblüte",
         "leitspruch": "Breathe... and smile!",
-        "wolke": "images/words.png", 
+        "wolke": "images/words.png",
         "wolke_alt": "Leitworte",
         "has_nav": true,
         "nav_links": [
@@ -22,7 +22,7 @@
             },
             {
                 "label": "Kursplan",
-                "url": "/portfolio/",
+                "url": "/kursplan",
                 "style": "link"
             },
             {
