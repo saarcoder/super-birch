@@ -6,6 +6,7 @@ seo:
   robots: []
   extra: []
 layout: page
+title: Kursplan
 ---
 <div class="responsive-table">
   <table>
