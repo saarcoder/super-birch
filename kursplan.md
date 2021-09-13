@@ -10,12 +10,11 @@ layout: page
 ---
 <div class="responsive-table">
   <table>
-      <caption>Table with thead, tfoot, and tbody</caption>
     <thead>
       <tr>
-        <th>Header content</th>
-        <th>Header content</th>
-        <th>Header content</th>
+        <th>Tag</th>
+        <th>Zeit</th>
+        <th>Ort</th>
         <th>Header content</th>
       </tr>
     </thead>
