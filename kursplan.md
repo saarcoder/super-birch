@@ -22,7 +22,8 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>18:30 - 20:00</td>
+        <td></td>
+        <td></td>
         <td></td>
       </tr>
       <tr>
