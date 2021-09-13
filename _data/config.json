@@ -34,6 +34,14 @@
                 "no_follow": false
             },
             {
+                "label": "Yoga-Therapie",
+                "url": "therapie",
+                "style": "link",
+                "icon": "lotos",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "Specials",
                 "url": "#",
                 "style": "link"
@@ -42,14 +50,6 @@
                 "label": "Kontakt",
                 "url": "/contact/",
                 "style": "link"
-            },
-            {
-                "label": "Yoga-Therapie",
-                "url": "therapie",
-                "style": "link",
-                "icon": "lotos",
-                "new_window": false,
-                "no_follow": false
             }
         ]
     },
