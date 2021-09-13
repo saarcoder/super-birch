@@ -34,11 +34,6 @@
                 "no_follow": false
             },
             {
-                "label": "Yoga-Therapie",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
                 "label": "Specials",
                 "url": "#",
                 "style": "link"
