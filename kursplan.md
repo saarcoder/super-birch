@@ -24,7 +24,7 @@ layout: page
       <tr>
         <td>Montag</td>
         <td>18:30 - 20:00</td>
-        <td><p>Evangelische Familienbildungsstätte</p><p>Mainzer Str. 269</p><p>›› Anfahrt</p></td>
+        <td><p>Evangelische Familienbildungsstätte</p><p>Mainzer Str. 269 SB</p><p>›› Anfahrt</p></td>
       </tr>
       <tr>
         <td>Mittwoch</td>
