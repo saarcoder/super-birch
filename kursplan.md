@@ -29,7 +29,7 @@ layout: page
       <tr>
         <td>Mittwoch</td>
         <td>18:45 - 20:15</td>
-        <td><p>Raum für Begegnung</p><p>Scheidterstr.62 SB</p<p></p>​</td>
+        <td><p>Raum für Begegnung</p><p>Scheidterstr.62 SB</p><p></p>​</td>
       </tr>
     </tbody>
     <tfoot>
