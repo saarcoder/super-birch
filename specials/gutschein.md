@@ -9,7 +9,7 @@ thumb_image_alt: White desk lamp beside green plant
 image: images/gutschein.jpg
 image_alt: Gutschein Yoga-Therapie
 seo:
-  title: The Elements of Great Workplace Design
+  title: Gutschein
   description: >-
     Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
     accumsan sapien blandit
