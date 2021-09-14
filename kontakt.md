@@ -42,7 +42,7 @@ sections:
         label: Wonach suchen Sie?
         default_value: Bitte auswählen
         options:
-          - Beratung
+          - Ayurveda-Beratung
           - Kursanmeldung
           - Digital
       - input_type: textarea
