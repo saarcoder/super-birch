@@ -3,7 +3,7 @@ title: Philosophie
 subtitle: ''
 excerpt: >-
   Als gebürtige Inderin wuchs ich in einer yogisch lebenden Familie auf, das heißt wir folgen der yogisch spirituellen Philosophie. Meine Mutter ist Yogalehrerin und auch mein Vater praktiziert Yoga seit seiner Jugend.
-date: ''
+date: '2021-09-13'
 thumb_image: images/02.jpg
 thumb_image_alt: Philosophie
 image: images/ayurveda.jpg
