@@ -10,7 +10,7 @@ sections:
       image_alt: Kurse
       caption: Yoga auf der Wiese
       width: wide
-    -type: text_section
+    - type: text_section
       content: >-
         Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
         massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
