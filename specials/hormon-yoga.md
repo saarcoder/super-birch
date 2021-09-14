@@ -34,7 +34,7 @@ seo:
       value: >-
         Übungen, die auf natürliche Weise die Hormonproduktion reaktivieren und harmonisieren.
     - name: 'twitter:image'
-      value: images/post-3.jpg
+      value: images/yoga-triangle-pose-synergybyjasmine_cc-by-nd-2-0.jpg
       relativeUrl: true
 layout: post
 ---
