@@ -1,15 +1,7 @@
 ---
 title: Einladung
 subtitle: 'Yoga-Therapie'
-sections:
-  - type: image_section
-    image: images/studio.jpg
-    image_alt: Studio
-    caption: Yoga-Studio Saarbrücken
-    width: wide
-  - type: text_section
-    content: >-
-      
+  
 seo:
   title: Einladung
   description: Einladung zur Eröffnung
