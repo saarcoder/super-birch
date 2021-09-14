@@ -39,4 +39,4 @@ seo:
   description: ''
   robots: []
   extra: []
-layout: page
+layout: project
