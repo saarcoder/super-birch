@@ -1,6 +1,8 @@
 ---
 title: Yoga-Therapie
 subtitle: ''
+image: images/ayurveda.jpg
+image_alt: gefallenes Ahornblatt
 seo:
   title: Einladung
   description: Einladung zur Eröffnung
