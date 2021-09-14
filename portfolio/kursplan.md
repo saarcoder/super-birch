@@ -11,7 +11,6 @@ sections:
     caption: Sunset Yoga von Andrew Kalat
     width: wide
   - type: text_section
-
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
       massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
