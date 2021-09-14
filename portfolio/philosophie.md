@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/02.jpg
     image_alt: Kurse
-    caption: 
+    caption: Freude verschenken
     width: wide
   - type: text_section
     content: >-
