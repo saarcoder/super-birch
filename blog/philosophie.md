@@ -2,8 +2,7 @@
 title: Philosophie
 subtitle: 'Über mich'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+  Als gebürtige Inderin wuchs ich in einer yogisch lebenden Familie auf, das heißt wir folgen der yogisch spirituellen Philosophie. Meine Mutter ist Yogalehrerin und auch mein Vater praktiziert Yoga seit seiner Jugend.
 date: '2021-09-13'
 thumb_image: images/02.jpg
 thumb_image_alt: Philosophie
