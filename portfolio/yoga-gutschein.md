@@ -6,7 +6,7 @@ thumb_image: images/02.jpg
 thumb_image_alt: Gutschein
 sections:
   - type: image_section
-    image: images/sunset-yoga_andrew-kalat_cc_by-nd_2-0.jpg
+    image: images/gutscvhein.jpg
     image_alt: Kurse
     caption: 'Bild: Sunset Yoga von Andrew Kalat'
     width: wide
