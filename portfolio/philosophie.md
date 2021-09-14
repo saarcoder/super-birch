@@ -1,5 +1,5 @@
 ---
-title: Philosophie
+title: Freude verschenken
 subtitle: 'Über mich'
 date: '2021-09-13'
 thumb_image: images/ayurveda.jpg
