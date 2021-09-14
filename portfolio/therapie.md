@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/studio.jpg
     image_alt: Studio
-    caption: Freude verschenken
+    caption: Yoga-Studio 
     width: wide
   - type: text_section
     content: >-
