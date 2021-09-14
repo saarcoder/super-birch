@@ -4,7 +4,7 @@ subtitle: 'Gutscheine, Einladungen und Ankündigungen'
 hide_title: false
 col_number: three
 seo:
-  title: Journal
+  title: Specials
   description: This is the journal page
   extra:
     - name: 'og:type'
