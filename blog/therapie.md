@@ -39,7 +39,7 @@ seo:
     - name: 'twitter:image'
       value: images/01.jpg
       relativeUrl: true
-layout: project
+layout: page
 ---
 Yogatherapie ist eine sanfte, gründliche und tief wirkende Methode, die die traditionellen Erfahrungswissenschaften Yoga und Ayurveda mit der modernen Wissenschaft der funktionellen Anatomie und Muskelfunktionstherapie verbindet.
 
