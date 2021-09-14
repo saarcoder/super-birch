@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: TEinladung zur Eröffnung
+      value: Einladung zur Eröffnung
     - name: 'twitter:description'
       value: Interdum posuere lorem ipsum dolor sit amet consectetur
     - name: 'twitter:image'
