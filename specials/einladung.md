@@ -11,7 +11,7 @@ image: images/01.jpg
 image_alt: White wooden table with a chair
 seo:
   title: The Advantages and Disadvantages of Working from Home
-  description: Interdum posuere lorem ipsum dolor sit amet consectetur
+  description: Neu! Yogastudio "Raum für Begegnung" Einladung zur Eröffnungsfeier
   extra:
     - name: 'og:type'
       value: article
