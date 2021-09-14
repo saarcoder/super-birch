@@ -14,7 +14,7 @@ sections:
     content: >-
       
 seo:
-  title: Philosophie
+  title: Einladung
   description: Übersicht über meine aktuellen Kurse
   extra:
     - name: 'og:type'
