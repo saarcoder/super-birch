@@ -18,7 +18,7 @@ seo:
       value: Einladung zur Eröffnung
       keyName: property
     - name: 'og:description'
-      value: Interdum posupost-5ere lorem ipsum dolor sit amet consectetur
+      value: Neu! Yogastudio "Raum für Begegnung" Einladung zur Eröffnungsfeier
       keyName: property
     - name: 'og:image'
       value: images/studio.jpg
