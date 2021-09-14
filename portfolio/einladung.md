@@ -1,5 +1,5 @@
 ---
-title: Freude verschenken
+title: Einladung
 subtitle: 'mit einem Yoga-Gutschein'
 date: '2021-09-12'
 thumb_image: images/03.jpg
