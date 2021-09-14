@@ -26,7 +26,7 @@ seo:
       value: Freude verschenken mit einem Yoga-Gutschein
       keyName: property
     - name: 'og:image'
-      value: images/01.jpg
+      value: images/gutschein.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
