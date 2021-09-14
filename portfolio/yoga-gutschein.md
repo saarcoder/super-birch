@@ -13,7 +13,7 @@ sections:
   - type: text_section
     content: ''
 seo:
-  title: Kursplan
+  title: Gutschein
   description: Übersicht über meine aktuellen Kurse
   extra:
     - name: 'og:type'
