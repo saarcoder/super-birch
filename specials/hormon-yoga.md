@@ -9,7 +9,7 @@ thumb_image_alt: Black white calendar
 image: images/post-3.jpg
 image_alt: Black white calendar
 seo:
-  title: Why Fonts Matter
+  title: HormonYoga I
   description: >-
     Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
     primis
