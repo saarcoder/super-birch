@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Gutschein
+      value: Einladung
     - name: 'twitter:description'
       value: Einladung zur Eröffnung
     - name: 'twitter:image'
