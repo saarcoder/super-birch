@@ -56,4 +56,4 @@ Leicht erlernbare Übungen für:
 - Linderung bei Wechseljahrsbeschwerden
 
 Anmeldung erforderlich:
-Shilpa Valia-Wendland kontakt@yoga-mit-shilpa.de
+Shilpa Valia-Wendland
