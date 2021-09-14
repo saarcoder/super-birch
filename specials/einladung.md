@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:title'
       value: Einladung zur Eröffnung
     - name: 'twitter:description'
-      value: Neu! Yogastudio "Raum für Begegnung" Einladung zur Eröffnungsfeier
+      value: Neu! Yogastudio "Raum für Begegnung" - Einladung zur Eröffnungsfeier
     - name: 'twitter:image'
       value: images/studio.jpg
       relativeUrl: true
