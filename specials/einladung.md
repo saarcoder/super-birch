@@ -8,7 +8,7 @@ thumb_image_alt: Studio Saarbrücken
 image: images/studio.jpg
 image_alt: Studio Saarbrücken
 seo:
-  title: The Advantages and Disadvantages of Working from Home
+  title: Einladung zur Eröffnung
   description: Neu! Yogastudio "Raum für Begegnung" Einladung zur Eröffnungsfeier
   extra:
     - name: 'og:type'
