@@ -8,6 +8,7 @@ sections:
     - type: image_section
       image: images/01.jpg
       image_alt: Kurse
+      caption: Yoga auf der Wiese
 
 title: Kursplan
 
