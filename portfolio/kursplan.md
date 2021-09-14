@@ -6,7 +6,7 @@ thumb_image: images/01.jpg
 thumg_image_alt: Kursplan
 sections:
   - type: image_section
-    image: images/01.jpg
+    image: images/https://live.staticflickr.com/2301/2242940421_c0e671613d_b.jpg
     image_alt: Kurse
     caption: Yoga auf der Wiese
     width: wide
