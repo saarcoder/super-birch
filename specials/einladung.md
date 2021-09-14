@@ -20,7 +20,7 @@ seo:
       value: The Advantages and Disadvantages of Working from Home
       keyName: property
     - name: 'og:description'
-      value: Interdum posuere lorem ipsum dolor sit amet consectetur
+      value: Interdum posupost-5ere lorem ipsum dolor sit amet consectetur
       keyName: property
     - name: 'og:image'
       value: images/studio.jpg
@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:description'
       value: Interdum posuere lorem ipsum dolor sit amet consectetur
     - name: 'twitter:image'
-      value: images/post-5.jpg
+      value: images/studio.jpg
       relativeUrl: true
 layout: post
 ---
