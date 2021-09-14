@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:title'
       value: Einladung
     - name: 'twitter:description'
-      value: Übersicht über meine aktuellen Kurse
+      value: Einladung zur Eröffnung
     - name: 'twitter:image'
       value: images/01.jpg
       relativeUrl: true
