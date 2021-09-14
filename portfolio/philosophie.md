@@ -3,7 +3,7 @@ title: Philosophie
 subtitle: 'Über mich'
 date: '2021-09-14'
 thumb_image: images/01.jpg
-thumg_image_alt: Kursplan
+thumg_image_alt: Philosophie
 sections:
   - type: image_section
     image: images/sunset-yoga_andrew-kalat_cc_by-nd_2-0.jpg
