@@ -1,6 +1,6 @@
 ---
 title: Specials
-subtitle: 'News, tips and highlights'
+subtitle: 'Ankündigungen'
 hide_title: false
 col_number: three
 seo:
