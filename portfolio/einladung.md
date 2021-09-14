@@ -26,7 +26,7 @@ seo:
       value: Einladung zur Eröffnung
       keyName: property
     - name: 'og:image'
-      value: images/gutschein.jpg
+      value: images/studio.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
