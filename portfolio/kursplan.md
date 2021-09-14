@@ -8,7 +8,7 @@ sections:
 
 
 title: Kursplan
----
+
 <div class="responsive-table">
   <table>
     <thead>
