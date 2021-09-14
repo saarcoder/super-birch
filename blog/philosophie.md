@@ -1,7 +1,6 @@
 ---
 
 
-date: '2020-01-15'
 thumb_image: images/post-1-thumb.jpg
 thumb_image_alt: White concrete building wall
 image: images/post-1.jpg
