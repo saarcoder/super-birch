@@ -40,7 +40,7 @@ sections:
       - input_type: select
         name: subject
         label: Wonach suchen Sie?
-        default_value: Please select
+        default_value: Bitte auswählen
         options:
           - Branding
           - Design
