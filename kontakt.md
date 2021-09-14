@@ -7,7 +7,7 @@ sections:
     content: >-
       Yoga muss man leben!<br>
 
-      Complete our contact form or send us an email at
+      Senden Sie Complete our contact form or send us an email at
       [email@example.com](mailto:email@example.com).
 
 
