@@ -27,7 +27,7 @@
             },
             {
                 "label": "Philosophie",
-                "url": "/portfolio/philosophie",
+                "url": "/philosophie",
                 "style": "link",
                 "icon": "lotos",
                 "new_window": false,
@@ -35,7 +35,7 @@
             },
             {
                 "label": "Yoga-Therapie",
-                "url": "/portfolio/therapie",
+                "url": "/therapie",
                 "style": "link",
                 "icon": "lotos",
                 "new_window": false,

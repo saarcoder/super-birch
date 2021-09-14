@@ -1,18 +1,6 @@
 ---
-title: Einladung
-subtitle: 'Yoga-Therapie'
-date: '2021-09-12'
-thumb_image: images/03.jpg
-thumb_image_alt: Studio
-sections:
-  - type: image_section
-    image: images/studio.jpg
-    image_alt: Studio
-    caption: Yoga-Studio Saarbrücken
-    width: wide
-  - type: text_section
-    content: >-
-      
+title: Yoga-Therapie
+subtitle: ''
 seo:
   title: Einladung
   description: Einladung zur Eröffnung
@@ -39,7 +27,7 @@ seo:
     - name: 'twitter:image'
       value: images/01.jpg
       relativeUrl: true
-layout: project
+layout: page
 ---
 Yogatherapie ist eine sanfte, gründliche und tief wirkende Methode, die die traditionellen Erfahrungswissenschaften Yoga und Ayurveda mit der modernen Wissenschaft der funktionellen Anatomie und Muskelfunktionstherapie verbindet.
 

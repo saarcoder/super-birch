@@ -1,21 +1,12 @@
 ---
-title: Freude verschenken
-subtitle: 'Yoga-Gutschein'
-date: '2021-09-13'
-thumb_image: images/02.jpg
-thumb_image_alt: Philosophie
-sections:
-  - type: image_section
-    image: images/ayurveda.jpg
-    image_alt: Kurse
-    caption: Freude verschenken
-    width: wide
-  - type: text_section
-    content: >-
+title: Philosophie
+subtitle: ''
+image: images/ayurveda.jpg
+image_alt: gefallenes Ahornblatt
       
 seo:
   title: Philosophie
-  description: Übersicht über meine aktuellen Kurse
+  description: Über mich
   extra:
     - name: 'og:type'
       value: website
@@ -24,7 +15,7 @@ seo:
       value: Philosophie
       keyName: property
     - name: 'og:description'
-      value: Übersicht über meine aktuellen Kurse
+      value: Über mich
       keyName: property
     - name: 'og:image'
       value: images/01.jpg
@@ -35,14 +26,12 @@ seo:
     - name: 'twitter:title'
       value: Philosophie
     - name: 'twitter:description'
-      value: Übersicht über meine aktuellen Kurse
+      value: Über mich
     - name: 'twitter:image'
       value: images/01.jpg
       relativeUrl: true
-layout: project
+layout: page
 ---
-## Philosopie
-
 ### Über mich
 
 Als gebürtige Inderin wuchs ich in einer yogisch lebenden Familie auf, das heißt wir folgen der yogisch spirituellen Philosophie. Meine Mutter ist Yogalehrerin und auch mein Vater praktiziert Yoga seit seiner Jugend.
