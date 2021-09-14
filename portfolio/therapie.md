@@ -1,6 +1,6 @@
 ---
 title: Einladung
-subtitle: 'Yoga-Gutschein'
+subtitle: 'Yoga-Therapie'
 date: '2021-09-13'
 thumb_image: images/02.jpg
 thumb_image_alt: Philosophie
