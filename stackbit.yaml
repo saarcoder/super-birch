@@ -150,7 +150,7 @@ models:
         default: true
       - type: list
         name: social_links
-        label: Social links
+        label: Soziale Links
         description: A list of social links in the footer
         items:
           type: model
