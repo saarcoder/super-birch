@@ -2,7 +2,7 @@
 title: Yoga-Therapie
 subtitle: ''
 image: images/yoga.jpg
-image_alt: gefallenes Ahornblatt
+image_alt: Yoga-Elemente
 seo:
   title: Einladung
   description: Einladung zur Eröffnung
