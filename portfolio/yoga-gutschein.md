@@ -40,8 +40,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-### Yoga-Gutschein "Goodshine"
-
+### Yoga-Gutschein "Goodshine":
 
 Gilt für die Teilnahme an einer Yoga Stunde - bei Interesse bitte fragen!
 
