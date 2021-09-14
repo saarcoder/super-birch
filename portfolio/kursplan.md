@@ -4,6 +4,8 @@ subtitle: ''
 date: '2021-09-14'
 thumb_image: images/01.jpg
 thumg_image_alt: Kursplan
+sections:
+
 seo:
   title: 'Kursplan'
   description: ''
