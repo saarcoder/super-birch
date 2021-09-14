@@ -20,7 +20,7 @@ seo:
       value: Philosophie
       keyName: property
     - name: 'og:description'
-      value: Übersicht über meine aktuellen Kurse
+      value: Über mich
       keyName: property
     - name: 'og:image'
       value: images/01.jpg
