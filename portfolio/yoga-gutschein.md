@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:title'
       value: Gutschein
     - name: 'twitter:description'
-      value: Übersicht über meine aktuellen Kurse
+      value: Freude verschenken mit einem Yoga-Gutschein
     - name: 'twitter:image'
       value: images/01.jpg
       relativeUrl: true
