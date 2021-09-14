@@ -2,7 +2,7 @@
 title: Einladung
 subtitle: 'Yoga-Therapie'
 date: '2021-09-12'
-thumb_image: images/02.jpg
+thumb_image: images/03.jpg
 thumb_image_alt: Philosophie
 sections:
   - type: image_section
