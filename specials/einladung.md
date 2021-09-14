@@ -9,7 +9,7 @@ image: images/studio.jpg
 image_alt: Studio Saarbrücken
 seo:
   title: Einladung zur Eröffnung
-  description: Neu! Yogastudio "Raum für Begegnung" Einladung zur Eröffnungsfeier
+  description: Neu! Yogastudio "Raum für Begegnung" - Einladung zur Eröffnungsfeier
   extra:
     - name: 'og:type'
       value: article
