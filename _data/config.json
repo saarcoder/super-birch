@@ -43,7 +43,7 @@
             },
             {
                 "label": "Specials",
-                "url": "specials",
+                "url": "/specials",
                 "style": "link"
             },
             {
