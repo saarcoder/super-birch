@@ -1,6 +1,6 @@
 ---
 title: Specials
-subtitle: 'Ankündigungen'
+subtitle: 'Gutscheine, Einladungen und Ankündigungen'
 hide_title: false
 col_number: three
 seo:
