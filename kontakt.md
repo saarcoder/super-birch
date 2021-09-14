@@ -6,7 +6,7 @@ sections:
     section_id: contact-form
     content: |
       Sie möchten noch mehr wissen?<br>
-      Senden Sie mir einfach über das Formular rechts eine Email!
+      Senden Sie mir einfach über das Formular rechts !
 
       ***
 
