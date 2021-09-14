@@ -202,7 +202,7 @@ models:
       - type: string
         name: title
         label: Titel
-        description: The title of the page
+        description: Der titel der Seite
         required: true
       - type: string
         name: subtitle
