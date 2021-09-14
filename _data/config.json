@@ -21,7 +21,7 @@
                 "icon": "lotos"
             },
             {
-                "label": "Meine Kurse",
+                "label": "Kursplan",
                 "url": "/portfolio/kursplan",
                 "style": "link"
             },
