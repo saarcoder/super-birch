@@ -88,7 +88,7 @@ models:
       - type: string
         name: logo_alt
         label: Logo alt-Text
-        description: The alt text of the logo image
+        description: alt-text of the logo image
       - type: string
         name: leitspruch
         label: Leitspruch
