@@ -145,7 +145,7 @@ models:
             - action
       - type: boolean
         name: has_social
-        label: Social links
+        label: Sozial links
         description: Display social links in the footer
         default: true
       - type: list
