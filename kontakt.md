@@ -28,7 +28,7 @@ sections:
 
       ### Ev. Familienbildungsstätte
 
-      1234 Some St.<br>
+      Mainzer Str. 269<br>
 
       New York, NY 12345<br>
 
