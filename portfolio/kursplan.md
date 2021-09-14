@@ -13,8 +13,6 @@ sections:
     -type: text_section
     content: >-
 
-title: Kursplan
-
 <div class="responsive-table">
   <table>
     <thead>
