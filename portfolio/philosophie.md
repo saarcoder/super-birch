@@ -1,6 +1,6 @@
 ---
 title: Freude verschenken
-subtitle: 'Über mich'
+subtitle: 'Yoga-Gutscvhein'
 date: '2021-09-13'
 thumb_image: images/ayurveda.jpg
 thumb_image_alt: Philosophie
