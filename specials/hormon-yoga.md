@@ -47,7 +47,7 @@ Praxis-orientiertes HormonYoga: ein natürlicher und gesunder Weg ins Gleichgewi
 Übungen, die auf natürliche Weise die Hormonproduktion reaktivieren und harmonisieren.
 
 ## Teil I
-**Wann: Samstag, 30.01.2016 von 16:30 bis 19:00 Uhr, im Anschluß gemeinsames ayurvedisches Abendessen*
+**Wann: Samstag, 30.01.2016 von 16:30 bis 19:00 Uhr, im Anschluß gemeinsames ayurvedisches Abendessen**
 Wo: in der Evangelischen Bildungsstätte, Mainzer Str. 269, 66121 SB,
 Kosten: 40,-€
 
