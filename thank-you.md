@@ -7,7 +7,7 @@ sections:
       Danke, dass Sie mich kontaktiert haben. Ich hoffe, meine Seite gefällt
       Ihnen. Einen sonnigen Tag!
     actions:
-      - label: Z
+      - label: Zurück zur Homepage
         url: /
         style: button
 layout: advanced
