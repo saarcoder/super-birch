@@ -41,7 +41,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-### Philosopie
+## Philosopie
 
 ### Über mich
 
