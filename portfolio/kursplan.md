@@ -34,3 +34,9 @@ title: Kursplan
     </tfoot>
   </table>
 </div>
+seo:
+  title: 'Kursplan'
+  description: ''
+  robots: []
+  extra: []
+layout: page
