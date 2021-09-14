@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:description'
       value: Einladung zur Eröffnung
     - name: 'twitter:image'
-      value: images/gutschein.jpg
+      value: images/studio.jpg
       relativeUrl: true
 layout: project
 ---
