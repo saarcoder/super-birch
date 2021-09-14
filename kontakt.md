@@ -30,11 +30,9 @@ sections:
 
       Mainzer Str. 269<br>
 
-      New York, NY 12345<br>
+     66121 Saarbrücken<br>
 
-      1-234-556-7890<br>
-
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      [Anfahrt &rarr;](https://goo.gl/maps/83xotMyjPzG2)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
