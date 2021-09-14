@@ -6,7 +6,7 @@ date: '2019-03-20'
 thumb_image: images/studio.jpg
 thumb_image_alt: Studio Saarbrücken
 image: images/studio.jpg
-image_alt: White wooden table with a chair
+image_alt: Studio Saarbrücken
 seo:
   title: The Advantages and Disadvantages of Working from Home
   description: Neu! Yogastudio "Raum für Begegnung" Einladung zur Eröffnungsfeier
