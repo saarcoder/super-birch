@@ -1,9 +1,8 @@
 ---
 title: HormonYoga I
 excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem.
+  Praxis-orientiertes HormonYoga: ein natürlicher und gesunder Weg ins Gleichgewicht zu kommen!
+Übungen, die auf natürliche Weise die Hormonproduktion reaktivieren und harmonisieren.
 date: '2020-12-27'
 thumb_image: images/post-3-thumb.jpg
 thumb_image_alt: Black white calendar
