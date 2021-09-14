@@ -99,7 +99,7 @@ models:
         description: Dateiname der Spruchwolke
       - type: boolean
         name: has_nav
-        label: Enable navigation menu
+        label: Navigation menu
         description: Display the navigation menu bar in the header
         default: true
       - type: list
