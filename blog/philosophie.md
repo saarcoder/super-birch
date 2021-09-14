@@ -1,6 +1,5 @@
 ---
-image: images/ayurveda.jpg
-image_alt: White concrete building wall
+
 
 title: Freude verschenken
 subtitle: 'Yoga-Gutschein'
