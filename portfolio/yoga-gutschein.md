@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/gutschein.jpg
     image_alt: Kurse
-    caption: 'Yoga-Gutschein Goodshine'
+    caption: ''
     width: wide
   - type: text_section
     content: ''
