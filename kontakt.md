@@ -65,7 +65,7 @@ seo:
       value: Kontakt
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Dies ist die Kontaktseite
       keyName: property
     - name: 'twitter:card'
       value: summary
