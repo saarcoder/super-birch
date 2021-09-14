@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:title'
       value: The Book
     - name: 'twitter:description'
-      value: This is the sample project description
+      value: Übersicht über meine aktuellen Kurse
     - name: 'twitter:image'
       value: images/01.jpg
       relativeUrl: true
