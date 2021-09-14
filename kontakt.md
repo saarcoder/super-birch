@@ -30,7 +30,7 @@ sections:
 
       Mainzer Str. 269<br>
 
-     66121 Saarbrücken<br>
+      66121 Saarbrücken<br>
 
       [Anfahrt &rarr;](https://goo.gl/maps/83xotMyjPzG2)
     form_id: contactForm
