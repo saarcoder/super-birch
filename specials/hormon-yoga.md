@@ -38,7 +38,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Bild: Yoga-Dreieckspose Synergy by Jasmine
+Bild: Yoga-Dreieckspose Synergy Jasmine
 
 **HormonYoga-Workshop Triologie**
 
