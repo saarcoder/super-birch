@@ -50,7 +50,7 @@ seo:
     - name: 'twitter:image'
       value: images/01.jpg
       relativeUrl: true
-layout: project
+layout: post
 ---
 ## Philosopie
 
