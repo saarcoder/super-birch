@@ -40,10 +40,4 @@ seo:
       relativeUrl: true
 layout: project
 ---
-ps://goo.gl/maps/duq43J3zudk" target="_blank">›› Anfahrt</a></p></td>
-      </tr>
-    </tbody>
-    <tfoot>
-    </tfoot>
-  </table>
-</div>
+
