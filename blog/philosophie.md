@@ -1,8 +1,6 @@
 ---
 title: Philosophie
 subtitle: ''
-thumb_image: images/02.jpg
-thumb_image_alt: Philosophie
 image: images/ayurveda.jpg
 image_alt: gefallenes Ahornblatt
       
