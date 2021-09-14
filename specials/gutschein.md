@@ -6,7 +6,7 @@ excerpt: >-
 date: '2016-04-14'
 thumb_image: images/02.jpg
 thumb_image_alt: White desk lamp beside green plant
-image: images/post-6.jpg
+image: images/gutschein.jpg
 image_alt: White desk lamp beside green plant
 seo:
   title: The Elements of Great Workplace Design
