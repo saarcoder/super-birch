@@ -52,7 +52,7 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          Ich habe verstanden, dass mit diesem Formular  understand that this form is storing my submitted information so I
+          Ich habe verstanden, dass mit diesem Formular meine Daten  submitted information so I
           can be contacted.
     submit_label: Send Message
 seo:
