@@ -6,7 +6,7 @@ thumb_image: images/03.jpg
 thumb_image_alt: Philosophie
 sections:
   - type: image_section
-    image: images/ayurveda.jpg
+    image: images/studio.jpg
     image_alt: Kurse
     caption: Freude verschenken
     width: wide
