@@ -5,7 +5,7 @@ hide_title: false
 col_number: three
 seo:
   title: Specials
-  description: This is the journal page
+  description: Dies ist die 
   extra:
     - name: 'og:type'
       value: website
