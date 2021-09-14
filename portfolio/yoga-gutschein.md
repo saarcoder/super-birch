@@ -14,7 +14,7 @@ sections:
     content: ''
 seo:
   title: Gutschein
-  description: Übersicht über meine aktuellen Kurse
+  description: Freude verschenken mit einem Yoga-Gutschein
   extra:
     - name: 'og:type'
       value: website
