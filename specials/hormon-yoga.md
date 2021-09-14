@@ -38,7 +38,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Bild: Yoga-Dreieckspose von [Jasmine Kaloudis] (Synergy by Jasmine)
+Bild: Yoga-Dreieckspose von [Jasmine Kaloudis]/https://www.flickr.com/people/synergybyjasmine/ (Synergy by Jasmine)
 
 **HormonYoga-Workshop Triologie**
 
