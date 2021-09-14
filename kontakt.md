@@ -6,6 +6,7 @@ sections:
     section_id: contact-form
     content: |
       Sie möchten noch mehr wissen?
+
       Senden Sie mir einfach eine Email über das Formular rechts!
 
       ## Mein Studio
