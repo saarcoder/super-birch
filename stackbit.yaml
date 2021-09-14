@@ -207,7 +207,7 @@ models:
       - type: string
         name: subtitle
         label: Untertitel
-        description: The text shown just below the page title
+        description: Der Text direkt unter dem Titel
       - type: boolean
         name: hide_title
         label: Hide page title and subtitle
