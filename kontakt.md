@@ -42,8 +42,8 @@ sections:
         label: Wonach suchen Sie?
         default_value: Bitte auswählen
         options:
-          - Branding
-          - Design
+          - Beratung
+          - 
           - Digital
       - input_type: textarea
         name: message
