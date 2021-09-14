@@ -2,7 +2,7 @@
 title: Kursplan
 image_alt: Kursplan
 seo:
-  title: ''
+  title: 'Kursplan'
   description: ''
   robots: []
   extra: []
