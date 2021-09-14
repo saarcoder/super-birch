@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/gutschein.jpg
     image_alt: Kurse
-    caption: 'Bild: Sunset Yoga von Andrew Kalat'
+    caption: 'Yoga-Gutschein Goodshine'
     width: wide
   - type: text_section
     content: ''
