@@ -1,5 +1,4 @@
 ---
-
 seo:
   title: ''
   description: ''
