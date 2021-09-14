@@ -1,5 +1,6 @@
 ---
 title: Kursplan
+subtitle: 
 image_alt: Kursplan
 seo:
   title: 'Kursplan'
