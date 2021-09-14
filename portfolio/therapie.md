@@ -24,7 +24,7 @@ seo:
       value: Einladung
       keyName: property
     - name: 'og:description'
-      value: Übersicht über meine aktuellen Kurse
+      value: Einladung zur Eröffnung
       keyName: property
     - name: 'og:image'
       value: images/01.jpg
