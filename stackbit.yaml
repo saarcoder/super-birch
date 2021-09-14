@@ -117,7 +117,7 @@ models:
     fields:
       - type: string
         name: content
-        label: Footer Inhalt
+        label: Footer-Inhalt
         description: Der Name im Footer
       - type: string
         name: phone
