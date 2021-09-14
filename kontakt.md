@@ -47,8 +47,8 @@ sections:
           - Newsletter
       - input_type: textarea
         name: message
-        label: Message
-        default_value: Your message
+        label: Nachricht
+        default_value: Ihre Nachricht
       - input_type: checkbox
         name: consent
         label: >-
