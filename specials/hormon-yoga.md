@@ -41,7 +41,7 @@ layout: post
 Bild: Yoga-Dreieckspose von [Jasmine Kaloudis](https://www.flickr.com/people/synergybyjasmine) (Synergy by Jasmine)  
 
 
-**HormonYoga-Workshop Triologie**
+## HormonYoga-Workshop Triologie**
 
 Praxis-orientiertes HormonYoga: ein natürlicher und gesunder Weg ins Gleichgewicht zu kommen!
 Übungen, die auf natürliche Weise die Hormonproduktion reaktivieren und harmonisieren.
