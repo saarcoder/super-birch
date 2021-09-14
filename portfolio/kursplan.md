@@ -16,7 +16,6 @@ sections:
       massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
       placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
       Aliquam lobortis faucibus blandit ac phasellus.
-
   - type: image_section
     image: images/work-book-cover-2.jpg
     image_alt: The Book 2
