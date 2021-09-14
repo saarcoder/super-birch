@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/sunset-yoga_andrew-kalat_cc_by-nd_2-0.jpg
     image_alt: Kurse
-    caption: Yoga auf der Wiese
+    caption: Sunset Yoga
     width: wide
   - type: text_section
     content: >-
