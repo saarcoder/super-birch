@@ -40,7 +40,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-### Yoga-Gutschein "Goodshine"
+### Neu! Yogastudio "Raum für Begegnung"
 
 Gilt für die Teilnahme an einer Yoga Stunde - bei Interesse bitte fragen!
 
