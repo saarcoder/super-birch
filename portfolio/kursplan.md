@@ -24,7 +24,7 @@ seo:
       value: Kursplan
       keyName: property
     - name: 'og:description'
-      value: This is the sample project description
+      value: Übersicht über meine aktuellen Kurse
       keyName: property
     - name: 'og:image'
       value: images/01.jpg
