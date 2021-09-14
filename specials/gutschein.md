@@ -38,4 +38,4 @@ seo:
       relativeUrl: true
 layout: post
 ---
-
+### Freude verschenken mit einem Yoga "Goodshine". 
