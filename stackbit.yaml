@@ -84,7 +84,7 @@ models:
       - type: image
         name: logo
         label: Logo
-        description: Logo-bild im Seitenkopf
+        description: Logo-Bild im Seitenkopf
       - type: string
         name: logo_alt
         label: Logo alt text
