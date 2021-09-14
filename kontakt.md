@@ -15,7 +15,7 @@ sections:
       ## Mein Studio
 
 
-      ### Saarbrücken
+      ### Raum für Begegnung
 
       Scheidter Str. 62<br>
 
