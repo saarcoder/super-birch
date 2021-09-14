@@ -7,7 +7,7 @@ sections:
     content: |
       Sie möchten noch mehr wissen?
 
-      Senden Sie mir einfach eine Email über das Formular rechts!
+      Dann senden Sie mir doch eine Email über das Formular rechts!
 
       ## Mein Studio
 
