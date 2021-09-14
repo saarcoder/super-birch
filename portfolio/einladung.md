@@ -20,7 +20,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Gutschein
+      value: Einladung
       keyName: property
     - name: 'og:description'
       value: Einladung zur Eröffnung
