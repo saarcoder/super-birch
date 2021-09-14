@@ -23,7 +23,7 @@ sections:
 
       0173-360 666 5<br>
 
-      [Anfahrt &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      [Anfahrt &rarr;](https://goo.gl/maps/duq43J3zudk)
 
 
       ### New York
