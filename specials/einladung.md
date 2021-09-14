@@ -1,9 +1,7 @@
 ---
 title: Einladung zur Eröffnung
 excerpt: >-
-  Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
-  commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
-  aenean vel elit.
+  Neu! Yogastudio "Raum für Begegnung" Einladung zur Eröffnungsfeier
 date: '2021-01-15'
 thumb_image: images/studio.jpg
 thumb_image_alt: yoga im park
