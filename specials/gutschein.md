@@ -20,8 +20,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-        accumsan sapien blandit
+        Freude verschenken mit einem Yoga "Goodshine". 
       keyName: property
     - name: 'og:image'
       value: images/post-6.jpg
