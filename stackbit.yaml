@@ -105,7 +105,7 @@ models:
       - type: list
         name: nav_links
         label: Navigations-Links
-        description: A list of navigation links
+        description: Liste von Navigation links
         items:
           type: model
           models:
