@@ -7,9 +7,7 @@ sections:
     content: >-
       Sie möchten noch mehr wissen?<br>
 
-      Senden Sie mir einfach über das Formular rechts eine Email at
-      [email@example.com](mailto:email@example.com).
-
+      Senden Sie mir einfach über das Formular rechts eine Email!
 
       ***
 
