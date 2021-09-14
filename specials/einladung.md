@@ -36,6 +36,5 @@ seo:
 layout: post
 ---
 
-20.03.2019
 Einladung zur Eröffnung
 Neu! Yogastudio "Raum für Begegnung" Einladung zur Eröffnungsfeier
