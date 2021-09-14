@@ -57,4 +57,4 @@ Leicht erlernbare Übungen für:
 
 Anmeldung erforderlich:
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Kontakt Shilpa Valia-Wendland](https://www.google.com "Google's Homepage")
