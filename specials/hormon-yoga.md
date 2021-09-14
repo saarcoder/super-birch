@@ -56,5 +56,4 @@ Leicht erlernbare Übungen für:
 - Linderung bei Wechseljahrsbeschwerden
 
 Anmeldung erforderlich:
-
 [Kontakt Shilpa Valia-Wendland](/kontakt)
