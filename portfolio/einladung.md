@@ -13,7 +13,7 @@ sections:
   - type: text_section
     content: ''
 seo:
-  title: Gutschein
+  title: Einladung
   description: Freude verschenken mit einem Yoga-Gutschein
   extra:
     - name: 'og:type'
