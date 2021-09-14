@@ -30,7 +30,7 @@ sections:
 
       Mainzer Str. 269<br>
 
-     66123 Saarbrücken<br>
+     66121 Saarbrücken<br>
 
       1-234-556-7890<br>
 
