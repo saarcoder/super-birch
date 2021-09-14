@@ -1,7 +1,6 @@
 ---
 title: Einladung
 subtitle: 'Yoga-Therapie'
-  
 seo:
   title: Einladung
   description: Einladung zur Eröffnung
