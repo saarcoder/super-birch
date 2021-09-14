@@ -4,7 +4,7 @@ excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
 date: '2021-02-12'
-thumb_image: images/gutschein.jpg
+thumb_image: images/02.jpg
 thumb_image_alt: White desk lamp beside green plant
 image: images/post-6.jpg
 image_alt: White desk lamp beside green plant
