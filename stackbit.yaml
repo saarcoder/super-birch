@@ -80,7 +80,7 @@ models:
       - type: string
         name: title
         label: Kopf-Titel
-        description: Titel im Kopf wenn  logo image added
+        description: Titel im Kopf wenn es kein Logo image added
       - type: image
         name: logo
         label: Logo
