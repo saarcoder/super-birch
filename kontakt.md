@@ -55,8 +55,8 @@ sections:
           Ich habe verstanden, dass mit diesem Formular meine Daten online übermittelt werden, damit ich kontaktiert werden kann.
     submit_label: Nachricht senden
 seo:
-  title: Contact
-  description: This is the contact page
+  title: Kontakt
+  description: Dies ist die Kontaktseite
   extra:
     - name: 'og:type'
       value: website
