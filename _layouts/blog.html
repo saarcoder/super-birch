@@ -17,7 +17,7 @@ layout: body
 <div class="section section--portfolio">
   <div class="container container--lg">
     <div class="grid post-feed post-feed--col-{{ col_number }}">
-      {% assign posts_sorted = '/blog' | get_pages | sort: 'date' | reverse %}
+      {% assign posts_sorted = '/specials' | get_pages | sort: 'date' | reverse %}
       {% for post in posts_sorted %}
       <article class="cell post-card">
         {% assign thumb_image_is_not_empty = post.thumb_image | is_not_empty %}
