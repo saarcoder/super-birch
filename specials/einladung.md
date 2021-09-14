@@ -5,7 +5,7 @@ excerpt: >-
   commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
   aenean vel elit.
 date: '2021-01-15'
-thumb_image: images/01.jpg
+thumb_image: images/studio.jpg
 thumb_image_alt: yoga im park
 image: images/01.jpg
 image_alt: White wooden table with a chair
