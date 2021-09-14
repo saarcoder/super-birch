@@ -52,7 +52,7 @@ Praxis-orientiertes HormonYoga: ein natürlicher und gesunder Weg ins Gleichgewi
 Wo: in der Evangelischen Bildungsstätte, Mainzer Str. 269, 66121 SB,
 Kosten: 40,-€
 
-Leicht erlernbare Übungen für:
+**Leicht erlernbare Übungen für:
 - einen ausgeglichenen Hormonhaushalt
 - Du spürst wieder mehr Vitalität und Lebensfreude
 - Emotionale Ausgeglichenheit
