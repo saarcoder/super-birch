@@ -21,8 +21,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
-        primis
+        Übungen, die auf natürliche Weise die Hormonproduktion reaktivieren und harmonisieren.
       keyName: property
     - name: 'og:image'
       value: images/post-3.jpg
