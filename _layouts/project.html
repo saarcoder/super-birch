@@ -25,10 +25,6 @@ layout: body
     <div class="container container--md">
         {% for section in page.sections %}
          
-          {% assign table = section.table %}
-          {% if table %}
-             {% include {{ table }} section=section site=site %}
-          {% endif %}
         {% endfor %}
     </div>
   </div>
