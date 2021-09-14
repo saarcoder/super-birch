@@ -11,8 +11,7 @@ image_alt: Black white calendar
 seo:
   title: HormonYoga I
   description: >-
-    Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
-    primis
+    Übungen, die auf natürliche Weise die Hormonproduktion reaktivieren und harmonisieren.
   extra:
     - name: 'og:type'
       value: article
