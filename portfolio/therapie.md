@@ -1,5 +1,5 @@
 ---
-title: Freude verschenken
+title: Yoga-Therapie
 subtitle: 'Yoga-Gutschein'
 date: '2021-09-13'
 thumb_image: images/02.jpg
