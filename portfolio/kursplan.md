@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:description'
       value: This is the sample project description
     - name: 'twitter:image'
-      value: images/images01.jpg
+      value: images/01.jpg
       relativeUrl: true
 layout: project
 ---
