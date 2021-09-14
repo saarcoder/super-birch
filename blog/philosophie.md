@@ -9,7 +9,7 @@ image: images/post-1.jpg
 image_alt: White concrete building wall
 
 title: Freude verschenken
-subtitle: 'Yoga-Gutschein
+subtitle: 'Yoga-Gutschein'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
