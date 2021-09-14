@@ -29,7 +29,7 @@ layout: body
   </div>
   <footer class="post__meta">
     <div class="container container--md">
-      Veröffentlicht am <time class="published" datetime="{{ page.date | date: '%Y-%m-%d %H:%M' }}">{{ page.date | date: '%d. %B %Y' }}{% include date-german.html date=page.date showDay=true %}</time>
+      Veröffentlicht am <time class="published" datetime="{{ page.date | date: '%Y-%m-%d %H:%M' }}">{% include date-german.html date=page.date showDay=true %}</time>
     </div>
   </footer>
 </article>
