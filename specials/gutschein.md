@@ -1,7 +1,7 @@
 ---
 title: Gutschein
 excerpt: >-
-  Freude verschenken mit einem Yoga "Goodshine". 
+  Freude verschenken mit einem Yoga "Goodshine"!
 date: '2016-04-14'
 thumb_image: images/02.jpg
 thumb_image_alt: Gutschein
