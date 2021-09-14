@@ -39,4 +39,21 @@ seo:
 layout: post
 ---
 
-**Donec neque lorem**, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi
+**Donec neque lorem**
+HormonYoga-Workshop Triologie
+Praxis-orientiertes HormonYoga: ein natürlicher und gesunder Weg ins Gleichgewicht zu kommen!
+Übungen, die auf natürliche Weise die Hormonproduktion reaktivieren und harmonisieren.
+
+Teil I
+Wann: Samstag, 30.01.2016 von 16:30 bis 19:00 Uhr, im Anschluß gemeinsames ayurvedisches Abendessen
+Wo: in der Evangelischen Bildungsstätte, Mainzer Str. 269, 66121 SB,
+Kosten: 40,-€
+
+Leicht erlernbare Übungen für:
+- einen ausgeglichenen Hormonhaushalt
+- Du spürst wieder mehr Vitalität und Lebensfreude
+- Emotionale Ausgeglichenheit
+- Linderung bei Wechseljahrsbeschwerden
+
+Anmeldung erforderlich:
+Shilpa Valia-Wendland kontakt@yoga-mit-shilpa.de
