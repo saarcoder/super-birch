@@ -2,7 +2,7 @@
 title: Freude verschenken
 subtitle: 'mit einem Yoga-Gutschein'
 date: '2021-09-13'
-thumb_image: images/02.jpg
+thumb_image: images/03.jpg
 thumb_image_alt: Gutschein
 sections:
   - type: image_section
