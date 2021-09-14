@@ -38,6 +38,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Bild: 
 
 **HormonYoga-Workshop Triologie**
 
