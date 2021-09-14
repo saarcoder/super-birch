@@ -195,7 +195,7 @@ models:
     urlPath: /specials
     label: Blog
     layout: blog
-    file: blog/index.md
+    file: specials/index.md
     hideContent: true
     singleInstance: true
     fields:
