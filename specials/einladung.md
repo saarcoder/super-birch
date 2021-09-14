@@ -2,7 +2,7 @@
 title: Einladung zur Eröffnung
 excerpt: >-
   Neu! Yogastudio "Raum für Begegnung" Einladung zur Eröffnungsfeier
-date: '2021-01-15'
+date: '2019-03-20'
 thumb_image: images/studio.jpg
 thumb_image_alt: yoga im park
 image: images/studio.jpg
