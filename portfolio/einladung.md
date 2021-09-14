@@ -6,7 +6,7 @@ thumb_image: images/03.jpg
 thumb_image_alt: Einladung
 sections:
   - type: image_section
-    image: images/gutschein.jpg
+    image: images/studio.jpg
     image_alt: Kurse
     caption: ''
     width: wide
