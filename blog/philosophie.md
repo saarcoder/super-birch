@@ -1,5 +1,5 @@
 ---
-image: images/post-1.jpg
+image: images/ayurveda.jpg
 image_alt: White concrete building wall
 
 title: Freude verschenken
