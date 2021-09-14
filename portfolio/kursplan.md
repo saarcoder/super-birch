@@ -15,7 +15,7 @@ sections:
       
 seo:
   title: Kursplan
-  description: This is the sample project description
+  description: Übersicht über meine aktuellen Kurse
   extra:
     - name: 'og:type'
       value: website
