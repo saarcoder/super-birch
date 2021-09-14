@@ -3,7 +3,7 @@ title: Philosophie
 subtitle: 'Über mich'
 date: '2021-09-13'
 thumb_image: images/ayurveda.jpg
-thumg_image_alt: Philosophie
+thumb_image_alt: Philosophie
 sections:
   - type: image_section
     image: images/sunset-yoga_andrew-kalat_cc_by-nd_2-0.jpg
