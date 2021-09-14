@@ -30,7 +30,7 @@ sections:
 
       Mainzer Str. 269<br>
 
-     66123 Saarbrücken<br>
+      New York, NY 12345<br>
 
       1-234-556-7890<br>
 
