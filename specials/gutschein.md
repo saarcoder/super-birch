@@ -32,8 +32,7 @@ seo:
       value: Gutschein
     - name: 'twitter:description'
       value: >-
-        Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-        accumsan sapien blandit
+        Freude verschenken mit einem Yoga "Goodshine". 
     - name: 'twitter:image'
       value: images/post-6.jpg
       relativeUrl: true
