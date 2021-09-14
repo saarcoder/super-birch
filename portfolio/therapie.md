@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Philosophie
+      value: Einladung
     - name: 'twitter:description'
       value: Übersicht über meine aktuellen Kurse
     - name: 'twitter:image'
