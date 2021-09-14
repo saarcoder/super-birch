@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:title'
       value: Philosophie
     - name: 'twitter:description'
-      value: Übersicht über meine aktuellen Kurse
+      value: Über mich
     - name: 'twitter:image'
       value: images/01.jpg
       relativeUrl: true
