@@ -52,7 +52,7 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          Ich habe verstanden, dass mit diesem Formular meine Daten versandt werden, damit ich kontaktiert werden kann.
+          Ich habe verstanden, dass mit diesem Formular meine Daten online übermittelt werden, damit ich kontaktiert werden kann.
     submit_label: Send Message
 seo:
   title: Contact
