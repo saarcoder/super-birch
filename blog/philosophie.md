@@ -1,6 +1,4 @@
 ---
-
-
 title: Freude verschenken
 subtitle: 'Yoga-Gutschein'
 excerpt: >-
@@ -9,7 +7,8 @@ excerpt: >-
 date: '2021-09-13'
 thumb_image: images/02.jpg
 thumb_image_alt: Philosophie
-
+image: images/ayurveda.jpg
+image_alt: White concrete building wall
       
 seo:
   title: Philosophie
