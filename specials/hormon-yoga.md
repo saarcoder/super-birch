@@ -38,7 +38,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Bild: yoga-triangle-pose-synergybyjasmine
+Bild: yoga-triangle-pose- synergybyjasmine
 
 **HormonYoga-Workshop Triologie**
 
