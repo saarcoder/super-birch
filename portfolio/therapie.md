@@ -1,12 +1,45 @@
 ---
-title: Yoga-Therapie
-image_alt: lorem-ipsum
+title: Freude verschenken
+subtitle: 'Yoga-Gutschein'
+date: '2021-09-13'
+thumb_image: images/02.jpg
+thumb_image_alt: Philosophie
+sections:
+  - type: image_section
+    image: images/ayurveda.jpg
+    image_alt: Kurse
+    caption: Freude verschenken
+    width: wide
+  - type: text_section
+    content: >-
+      
 seo:
-  title: ''
-  description: ''
-  robots: []
-  extra: []
-layout: page
+  title: Philosophie
+  description: Übersicht über meine aktuellen Kurse
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: Philosophie
+      keyName: property
+    - name: 'og:description'
+      value: Übersicht über meine aktuellen Kurse
+      keyName: property
+    - name: 'og:image'
+      value: images/01.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: Philosophie
+    - name: 'twitter:description'
+      value: Übersicht über meine aktuellen Kurse
+    - name: 'twitter:image'
+      value: images/01.jpg
+      relativeUrl: true
+layout: project
 ---
 Yogatherapie ist eine sanfte, gründliche und tief wirkende Methode, die die traditionellen Erfahrungswissenschaften Yoga und Ayurveda mit der modernen Wissenschaft der funktionellen Anatomie und Muskelfunktionstherapie verbindet.
 
