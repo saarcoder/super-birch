@@ -192,7 +192,7 @@ models:
           - stackbit_page_meta
   blog:
     type: page
-    urlPath: /blog
+    urlPath: /specials
     label: Blog
     layout: blog
     file: blog/index.md
