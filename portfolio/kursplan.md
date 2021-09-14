@@ -1,5 +1,5 @@
 ---
-image_alt: lorem-ipsum
+image_alt: Kursplan
 seo:
   title: ''
   description: ''
