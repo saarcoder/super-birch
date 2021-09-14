@@ -1,10 +1,5 @@
 ---
-seo:
-  title: ''
-  description: ''
-  robots: []
-  extra: []
-layout: page
+
 ---
 title: Philosophie
 subtitle: ''
