@@ -151,7 +151,7 @@ models:
       - type: list
         name: social_links
         label: Soziale Links
-        description: A list of social links in the footer
+        description: List of social links in the footer
         items:
           type: model
           models:
