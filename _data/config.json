@@ -27,7 +27,7 @@
             },
             {
                 "label": "Philosophie",
-                "url": "/portfoliophilosophie",
+                "url": "/portfolio/philosophie",
                 "style": "link",
                 "icon": "lotos",
                 "new_window": false,
