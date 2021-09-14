@@ -40,7 +40,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-GUTSCHEIN
+### GUTSCHEIN
 Freude verschenken mit einem Yoga "Goodshine".
 
 01
