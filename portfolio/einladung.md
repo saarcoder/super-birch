@@ -42,5 +42,5 @@ layout: project
 ---
 ### Neu! Yogastudio "Raum für Begegnung"
 
-Gilt für die Teilnahme an einer Yoga Stunde - bei Interesse bitte fragen!
+Einladung zur Eröffnung am 
 
