@@ -5,10 +5,8 @@ sections:
   - type: form_section
     section_id: contact-form
     content: |
-      Sie möchten noch mehr wissen?<br>
+      Sie möchten noch mehr wissen?
       Senden Sie mir einfach eine Email über das Formular rechts!
-
-      ***
 
       ## Mein Studio
 
@@ -52,7 +50,8 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          Ich habe verstanden, dass mit diesem Formular meine Daten online übermittelt werden, damit ich kontaktiert werden kann.
+          Ich habe verstanden, dass mit diesem Formular meine Daten online
+          übermittelt werden, damit ich kontaktiert werden kann.
     submit_label: Nachricht senden
 seo:
   title: Kontakt
