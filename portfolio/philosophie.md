@@ -1,6 +1,4 @@
 ---
-
----
 title: Philosophie
 subtitle: ''
 date: '2021-09-14'
