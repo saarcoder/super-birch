@@ -23,7 +23,7 @@ seo:
       value: Interdum posuere lorem ipsum dolor sit amet consectetur
       keyName: property
     - name: 'og:image'
-      value: images/post-5.jpg
+      value: images/studio.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
