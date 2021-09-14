@@ -11,7 +11,7 @@ sections:
       caption: Yoga auf der Wiese
       width: wide
     -type: text_section
-    content: 
+    content: >-
 
 title: Kursplan
 
