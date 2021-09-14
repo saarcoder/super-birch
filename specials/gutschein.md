@@ -11,8 +11,7 @@ image_alt: Gutschein Yoga-Therapie
 seo:
   title: Gutschein
   description: >-
-    Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-    accumsan sapien blandit
+    Freude verschenken mit einem Yoga "Goodshine". 
   extra:
     - name: 'og:type'
       value: article
