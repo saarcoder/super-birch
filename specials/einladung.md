@@ -5,7 +5,7 @@ excerpt: >-
 date: '2021-01-15'
 thumb_image: images/studio.jpg
 thumb_image_alt: yoga im park
-image: images/01.jpg
+image: images/studio.jpg
 image_alt: White wooden table with a chair
 seo:
   title: The Advantages and Disadvantages of Working from Home
