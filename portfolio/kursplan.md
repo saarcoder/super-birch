@@ -12,7 +12,6 @@ sections:
       width: wide
     -type: text_section
     content: >-
-
 <div class="responsive-table">
   <table>
     <thead>
