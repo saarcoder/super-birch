@@ -18,7 +18,7 @@ seo:
       value: Einladung zur Eröffnung
       keyName: property
     - name: 'og:description'
-      value: Neu! Yogastudio "Raum für Begegnung" Einladung zur Eröffnungsfeier
+      value: Neu! Yogastudio "Raum für Begegnung" - Einladung zur Eröffnungsfeier
       keyName: property
     - name: 'og:image'
       value: images/studio.jpg
