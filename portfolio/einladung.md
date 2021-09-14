@@ -43,5 +43,5 @@ layout: project
 ### Neu! Yogastudio "Raum für Begegnung"
 
 Einladung zur Eröffnungsfeier am 23. März
-![](image.png)
+![](/eroeffnung.png)
 
