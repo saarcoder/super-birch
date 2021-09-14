@@ -4,7 +4,7 @@ excerpt: >-
   Praxis-orientiertes HormonYoga: Übungen, die auf natürliche Weise die Hormonproduktion reaktivieren und harmonisieren.
 date: '2016-01-30'
 thumb_image: images/yoga-triangle-pose-synergybyjasmine_cc-by-nd-2-0.jpg
-thumb_image_alt: Black white calendar
+thumb_image_alt: Yoga triangle pose
 image: images/post-3.jpg
 image_alt: Black white calendar
 seo:
