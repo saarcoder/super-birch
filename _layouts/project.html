@@ -26,7 +26,7 @@ layout: body
         {% for section in page.sections %}
          
           {% assign table = section.table %}
-          {% include {{ table }} %}
+          {% include {{ table }} section=%}
       {% endfor %}
     </div>
   </div>
