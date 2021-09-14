@@ -36,5 +36,5 @@ seo:
 layout: post
 ---
 
-Einladung zur Eröffnung
+### Einladung zur Eröffnung
 Neu! Yogastudio "Raum für Begegnung" Einladung zur Eröffnungsfeier
