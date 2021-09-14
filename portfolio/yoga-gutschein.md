@@ -43,7 +43,6 @@ layout: project
 ### GUTSCHEIN
 Freude verschenken mit einem Yoga "Goodshine".
 
-01
 
 Gilt für die Teilnahme an einer Yoga Stunde - bei Interesse bitte fragen!
 
