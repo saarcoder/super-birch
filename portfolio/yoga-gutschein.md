@@ -1,5 +1,5 @@
 ---
-title: Meine Kurse
+title: Freude verschenken
 subtitle: ''
 date: '2021-09-14'
 thumb_image: images/01.jpg
