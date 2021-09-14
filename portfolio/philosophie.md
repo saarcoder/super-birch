@@ -51,9 +51,6 @@ seo:
       relativeUrl: true
 layout: project
 ---
-
-
-
 ### Über mich
 
 Als gebürtige Inderin wuchs ich in einer yogisch lebenden Familie auf, das heißt wir folgen der yogisch spirituellen Philosophie. Meine Mutter ist Yogalehrerin und auch mein Vater praktiziert Yoga seit seiner Jugend.
