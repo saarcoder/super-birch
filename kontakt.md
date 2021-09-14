@@ -7,7 +7,7 @@ sections:
     content: >-
       Sie möchten noch mehr wissen?<br>
 
-      Senden Sie Complete our contact form or send us an email at
+      Senden Sie mir einfach über das Formular rechts eine Email at
       [email@example.com](mailto:email@example.com).
 
 
