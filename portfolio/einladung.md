@@ -14,7 +14,7 @@ sections:
     content: ''
 seo:
   title: Einladung
-  description: Freude verschenken mit einem Yoga-Gutschein
+  description: Einladung zur Eröffnung
   extra:
     - name: 'og:type'
       value: website
