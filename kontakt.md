@@ -21,7 +21,7 @@ sections:
 
       66123 Saarbrücken<br>
 
-      1-234-556-7890<br>
+      0173 360 666 5<br>
 
       [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
 
