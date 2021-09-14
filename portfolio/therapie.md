@@ -15,7 +15,7 @@ sections:
       
 seo:
   title: Einladung
-  description: Übersicht über meine aktuellen Kurse
+  description: Einladung zur Eröffnung
   extra:
     - name: 'og:type'
       value: website
