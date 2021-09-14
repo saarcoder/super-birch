@@ -39,8 +39,8 @@ seo:
 layout: post
 ---
 
-****
-HormonYoga-Workshop Triologie
+**HormonYoga-Workshop Triologie**
+
 Praxis-orientiertes HormonYoga: ein natürlicher und gesunder Weg ins Gleichgewicht zu kommen!
 Übungen, die auf natürliche Weise die Hormonproduktion reaktivieren und harmonisieren.
 
