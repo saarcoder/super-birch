@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: This is the journal page
     - name: 'twitter:image'
-      value: images/post-1.jpg
+      value: images/02.jpg
       relativeUrl: true
 layout: blog
 ---
