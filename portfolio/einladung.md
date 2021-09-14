@@ -23,7 +23,7 @@ seo:
       value: Gutschein
       keyName: property
     - name: 'og:description'
-      value: Freude verschenken mit einem Yoga-Gutschein
+      value: Einladung zur Eröffnung
       keyName: property
     - name: 'og:image'
       value: images/gutschein.jpg
