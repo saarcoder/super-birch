@@ -55,5 +55,4 @@ Leicht erlernbare Übungen für:
 - Emotionale Ausgeglichenheit
 - Linderung bei Wechseljahrsbeschwerden
 
-Anmeldung erforderlich:
-[Kontakt Shilpa Valia-Wendland](/kontakt)
+Anmeldung erforderlich: [Kontakt Shilpa Valia-Wendland](/kontakt)
