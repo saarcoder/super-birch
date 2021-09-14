@@ -57,4 +57,3 @@ Leicht erlernbare Übungen für:
 
 Anmeldung erforderlich:
 Shilpa Valia-Wendland
-[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
