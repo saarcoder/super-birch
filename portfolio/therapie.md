@@ -7,7 +7,7 @@ thumb_image_alt: Philosophie
 sections:
   - type: image_section
     image: images/studio.jpg
-    image_alt: Kurse
+    image_alt: Studio
     caption: Freude verschenken
     width: wide
   - type: text_section
