@@ -27,7 +27,7 @@
             },
             {
                 "label": "Philosophie",
-                "url": "/blog/philosophie",
+                "url": "/philosophie",
                 "style": "link",
                 "icon": "lotos",
                 "new_window": false,
