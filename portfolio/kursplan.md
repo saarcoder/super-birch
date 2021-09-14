@@ -6,12 +6,7 @@ thumb_image: images/01.jpg
 thumg_image_alt: Kursplan
 sections:
 
-seo:
-  title: 'Kursplan'
-  description: ''
-  robots: []
-  extra: []
-layout: page
+
 title: Kursplan
 ---
 <div class="responsive-table">
