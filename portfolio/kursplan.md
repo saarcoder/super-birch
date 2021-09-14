@@ -27,7 +27,7 @@ sections:
       placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
       Aliquam lobortis faucibus blandit ac phasellus.
 seo:
-  title: The Book
+  title: Kursplan
   description: This is the sample project description
   extra:
     - name: 'og:type'
