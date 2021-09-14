@@ -87,7 +87,7 @@ models:
         description: Logo-Bild im Seitenkopf
       - type: string
         name: logo_alt
-        label: Logo alt text
+        label: Logo alt-Text
         description: The alt text of the logo image
       - type: string
         name: leitspruch
