@@ -10,14 +10,7 @@ excerpt: >-
 date: '2021-09-13'
 thumb_image: images/02.jpg
 thumb_image_alt: Philosophie
-sections:
-  - type: image_section
-    image: images/ayurveda.jpg
-    image_alt: Kurse
-    caption: Freude verschenken
-    width: wide
-  - type: text_section
-    content: >-
+
       
 seo:
   title: Philosophie
