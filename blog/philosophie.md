@@ -11,7 +11,7 @@ image_alt: White concrete building wall
       
 seo:
   title: Philosophie
-  description: Übersicht über meine aktuellen Kurse
+  description: Über mich
   extra:
     - name: 'og:type'
       value: website
