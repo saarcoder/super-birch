@@ -11,11 +11,6 @@ sections:
     caption: Sunset Yoga von Andrew Kalat
     width: wide
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
   - type: image_section
     image: images/work-book-cover-2.jpg
     image_alt: The Book 2
