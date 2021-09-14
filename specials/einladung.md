@@ -37,4 +37,5 @@ layout: post
 ---
 
 ### Einladung zur Eröffnung
-## Neu! Yogastudio "Raum für Begegnung" Einladung zur Eröffnungsfeier
+## Neu! Yogastudio "Raum für Begegnung" 
+Einladung zur Eröffnungsfeier
