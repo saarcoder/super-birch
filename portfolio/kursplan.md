@@ -2,7 +2,7 @@
 title: Kursplan
 subtitle: ''
 date: '2021-09-14'
-thumb_image: images/
+thumb_image: images/01.jpg
 image_alt: Kursplan
 seo:
   title: 'Kursplan'
