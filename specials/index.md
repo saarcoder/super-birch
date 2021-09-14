@@ -5,7 +5,7 @@ hide_title: false
 col_number: three
 seo:
   title: Specials
-  description: Dies ist die 
+  description: Dies ist die Specials-Seite
   extra:
     - name: 'og:type'
       value: website
