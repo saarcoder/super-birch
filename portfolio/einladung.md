@@ -7,7 +7,7 @@ thumb_image_alt: Einladung
 sections:
   - type: image_section
     image: images/studio.jpg
-    image_alt: Kurse
+    image_alt: Yoga-Studio Saarbrücken
     caption: ''
     width: wide
   - type: text_section
