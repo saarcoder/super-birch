@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/studio.jpg
     image_alt: Studio
-    caption: Yoga-Studio 
+    caption: Yoga-Studio Saarbrücken
     width: wide
   - type: text_section
     content: >-
