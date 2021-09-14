@@ -4,35 +4,28 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: >-
+    content: |
       Sie möchten noch mehr wissen?<br>
-
       Senden Sie mir einfach über das Formular rechts eine Email!
 
       ***
 
-
       ## Mein Studio
-
 
       ### Raum für Begegnung
 
       Scheidter Str. 62<br>
-
       66123 Saarbrücken<br>
-
       0173-360 666 5<br>
+      [Anfahrt →](https://goo.gl/maps/duq43J3zudk)
 
-      [Anfahrt &rarr;](https://goo.gl/maps/duq43J3zudk)
+      ### Evangelische 
 
-
-      ### Ev. Familienbildungsstätte
+      ### Familienbildungsstätte
 
       Mainzer Str. 269<br>
-
       66121 Saarbrücken<br>
-
-      [Anfahrt &rarr;](https://goo.gl/maps/83xotMyjPzG2)
+      [Anfahrt →](https://goo.gl/maps/83xotMyjPzG2)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
