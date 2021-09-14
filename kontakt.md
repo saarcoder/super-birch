@@ -26,7 +26,7 @@ sections:
       [Anfahrt &rarr;](https://goo.gl/maps/duq43J3zudk)
 
 
-      ### Evangelische Familienbildungsstätte
+      ### Ev. Familienbildungsstätte
 
       1234 Some St.<br>
 
