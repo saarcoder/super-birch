@@ -17,7 +17,7 @@ seo:
       value: This is the journal page
       keyName: property
     - name: 'og:image'
-      value: images/post-1.jpg
+      value: images/02.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
