@@ -9,7 +9,7 @@ seo:
 layout: page
 ---
 ---
-title: Meine Kurse
+title: Philosophie
 subtitle: ''
 date: '2021-09-14'
 thumb_image: images/01.jpg
