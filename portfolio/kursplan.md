@@ -12,8 +12,8 @@ sections:
     width: wide
   - type: text_section
     content: >-
-  - type: content
-  
+  - type: table
+
       
 seo:
   title: Kursplan
