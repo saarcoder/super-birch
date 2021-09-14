@@ -18,7 +18,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Elements of Great Workplace Design
+      value: Gutschein
       keyName: property
     - name: 'og:description'
       value: >-
