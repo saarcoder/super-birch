@@ -43,7 +43,7 @@ sections:
         default_value: Bitte auswählen
         options:
           - Beratung
-          - 
+          - Kursanmeldung
           - Digital
       - input_type: textarea
         name: message
