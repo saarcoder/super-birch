@@ -215,7 +215,7 @@ models:
       - type: enum
         name: col_number
         label: Spalten
-        description: The number of columns in the post grid
+        description: Die Anzahl der Spalten im Grid der Artikel
         options:
           - two
           - three
