@@ -1,6 +1,4 @@
 ---
-thumb_image: images/post-1-thumb.jpg
-thumb_image_alt: White concrete building wall
 image: images/post-1.jpg
 image_alt: White concrete building wall
 
