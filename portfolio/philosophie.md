@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/02.jpg
     image_alt: Kurse
-    caption: Sunset Yoga von Andrew Kalat
+    caption: 
     width: wide
   - type: text_section
     content: >-
