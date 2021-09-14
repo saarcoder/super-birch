@@ -32,7 +32,7 @@ sections:
 
      66121 Saarbrücken<br>
 
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      [Anfahrt &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
