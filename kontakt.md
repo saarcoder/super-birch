@@ -12,7 +12,7 @@ sections:
       ***
 
 
-      ## Our Offices
+      ## Mein Studio
 
 
       ### San Francisco
