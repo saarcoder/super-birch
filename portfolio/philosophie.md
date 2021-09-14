@@ -2,7 +2,7 @@
 title: Philosophie
 subtitle: 'Über mich'
 date: '2021-09-14'
-thumb_image: images/01.jpg
+thumb_image: images/ayurveda.jpg
 thumg_image_alt: Philosophie
 sections:
   - type: image_section
