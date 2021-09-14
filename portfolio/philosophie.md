@@ -2,7 +2,7 @@
 title: Freude verschenken: 
 subtitle: 'Yoga-Gutschein'
 date: '2021-09-13'
-thumb_image: images/ayurveda.jpg
+thumb_image: images/02.jpg
 thumb_image_alt: Philosophie
 sections:
   - type: image_section
