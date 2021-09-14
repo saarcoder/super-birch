@@ -48,7 +48,9 @@
     hyphens: auto;
   }
 
-  
+  &__body   h2#mein-studio {
+      text-decoration: underline;
+  }
   .grid {
     &:not(:first-child) {
       margin-top: 1.5em;
