@@ -1,5 +1,5 @@
 ---
-title: Yoga-Therapie
+title: Einladung
 subtitle: 'Yoga-Gutschein'
 date: '2021-09-13'
 thumb_image: images/02.jpg
