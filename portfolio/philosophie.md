@@ -14,14 +14,14 @@ sections:
     content: >-
       
 seo:
-  title: Kursplan
+  title: Philosophie
   description: Übersicht über meine aktuellen Kurse
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Kursplan
+      value: Philosophie
       keyName: property
     - name: 'og:description'
       value: Übersicht über meine aktuellen Kurse
