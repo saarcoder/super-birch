@@ -19,7 +19,7 @@ sections:
 
       Scheidter Str. 62<br>
 
-      San Francisco, CA 12345<br>
+      66113 Saarbrücken<br>
 
       1-234-556-7890<br>
 
