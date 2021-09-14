@@ -20,7 +20,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Kursplan
+      value: Gutschein
       keyName: property
     - name: 'og:description'
       value: Übersicht über meine aktuellen Kurse
