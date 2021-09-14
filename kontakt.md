@@ -5,7 +5,7 @@ sections:
   - type: form_section
     section_id: contact-form
     content: >-
-      Yoga muss man leben!<br>
+      Sie möchten noch mehr wissen?<br>
 
       Senden Sie Complete our contact form or send us an email at
       [email@example.com](mailto:email@example.com).
