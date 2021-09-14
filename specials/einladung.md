@@ -4,7 +4,7 @@ excerpt: >-
   Neu! Yogastudio "Raum für Begegnung" Einladung zur Eröffnungsfeier
 date: '2019-03-20'
 thumb_image: images/studio.jpg
-thumb_image_alt: yoga im park
+thumb_image_alt: Studio Saarbrücken
 image: images/studio.jpg
 image_alt: White wooden table with a chair
 seo:
