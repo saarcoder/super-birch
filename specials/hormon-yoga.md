@@ -58,4 +58,4 @@ Kosten: 40,-€
 - Emotionale Ausgeglichenheit
 - Linderung bei Wechseljahrsbeschwerden
 
-Anmeldung erforderlich: [Kontakt Shilpa Valia-Wendland](/kontakt)
+**Anmeldung erforderlich: [Kontakt Shilpa Valia-Wendland](/kontakt)
