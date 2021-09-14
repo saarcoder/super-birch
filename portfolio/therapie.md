@@ -21,7 +21,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Philosophie
+      value: Einladung
       keyName: property
     - name: 'og:description'
       value: Übersicht über meine aktuellen Kurse
