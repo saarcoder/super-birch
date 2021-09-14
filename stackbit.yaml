@@ -214,7 +214,7 @@ models:
         default: false
       - type: enum
         name: col_number
-        label: Columns
+        label: Spalten
         description: The number of columns in the post grid
         options:
           - two
