@@ -19,9 +19,7 @@ sections:
       0173-360 666 5<br>
       [Anfahrt →](https://goo.gl/maps/duq43J3zudk)
 
-      ### Evangelische 
-
-      ### Familienbildungsstätte
+      ### Evangelische Familienbildungsstätte
 
       Mainzer Str. 269<br>
       66121 Saarbrücken<br>
