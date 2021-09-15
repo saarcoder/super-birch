@@ -36,7 +36,9 @@
 }
 
 @media only screen and (min-width: 767px) {
-    .s
+    .site-content {
+        margin-top: -3rem;
+    }
     .container h1:first-child {
         margin-top: 5rem;
     }
