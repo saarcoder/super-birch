@@ -93,6 +93,19 @@
       }
   }
 
+@media only screen and (max-width: 1105px) {
+    .site-footer {
+  padding: 2rem 1.5rem 1.5rem 1.5rem;    
+  background: #f0790d;
+  position: absolute;
+  bottom: 0;
+  width: calc(100% - 3rem);
+  left: 0;
 
+  .container--lg {
+      margin: 0 auto;
+      width: 998px
+  }
+}
 
 }
