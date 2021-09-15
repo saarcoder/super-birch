@@ -17,7 +17,7 @@ Die Verwendung - auch von Teilen - dieser Seite für gewerbliche und private Zwe
 
 Das Site-Design wurde von Karina Pohl entwickelt und umgesetzt.   
   
-
+<hr />
 
 **Credits für graphisches Material:**
 
