@@ -183,3 +183,9 @@
     }
   }
 }
+
+@media only screen and (max-width: 767px) {
+    .hero .container--lg {
+        margin: 0;
+    }
+}
