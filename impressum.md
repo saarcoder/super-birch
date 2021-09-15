@@ -20,8 +20,6 @@ Das Site-Design wurde von Karina Pohl entwickelt und umgesetzt.
 <hr />
 **Credits für graphisches Material:**
 
-Telephone von Thomas Uebe vom The Noun Project
-
-Mail von Jardson A. vom The Noun Project
+Sunset Yoga von Andrew Kalat
 
 Made with Stackbit and ♥
