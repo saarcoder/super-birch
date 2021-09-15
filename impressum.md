@@ -1,6 +1,6 @@
 ---
 title: Impressum
-subtitle: lorem-ipsum
+subtitle: ''
 image_alt: lorem-ipsum
 seo:
   title: ''
