@@ -23,5 +23,5 @@ Das Site-Design wurde von Karina Pohl entwickelt und umgesetzt.
 Sunset Yoga von [Andrew Kalat](https://www.flickr.com/photos/90811165@N00)
 
 yoga-triangle-pose von [Jasmine Kaloudis](https://www.flickr.com/photos/synergybyjasmine/) (Synergy by Jasmine)  
-
+  
 Made with Stackbit and ♥
