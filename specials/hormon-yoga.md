@@ -1,5 +1,5 @@
 ---
-title: HormonYoga I
+title: HormonYoga
 excerpt: >-
   Praxis-orientiertes HormonYoga: Übungen, die auf natürliche Weise die Hormonproduktion reaktivieren und harmonisieren.
 date: '2016-01-30'
