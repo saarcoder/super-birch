@@ -58,7 +58,6 @@
       img {
         margin-left: 3vw;
         margin-right: 3vw;
-        max-width: calc(780px - 6vw);
       }
     }
 
@@ -74,6 +73,7 @@
         &__image {
             img {
                 
+        max-width: calc(780px - 6vw);
             }
         }
     }
