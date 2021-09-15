@@ -105,7 +105,8 @@ textarea {
 
 button,
 input {
-  overflow: visible;
+  overflow: visible;    hyphens: auto;
+}
 }
 
 button,
