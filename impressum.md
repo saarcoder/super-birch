@@ -16,7 +16,6 @@ Das **Urheberrecht / Copyright** an Bild und Text-Daten liegt bei Shilpa Valia-W
 Die Verwendung - auch von Teilen - dieser Seite für gewerbliche und private Zwecke ist untersagt. Für den Inhalt der hier aufgeführten Links übernehmen wir keine Verantwortung.
 
 Das Site-Design wurde von Karina Pohl entwickelt und umgesetzt.   
-
   
   
 **Credits für graphisches Material:**
