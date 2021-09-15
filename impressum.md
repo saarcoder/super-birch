@@ -22,6 +22,6 @@ Das Site-Design wurde von Karina Pohl entwickelt und umgesetzt.
 
 Telephone von Thomas Uebe vom The Noun Project
 
-Mail by Jardson A. vom The Noun Project
+Mail von Jardson A. vom The Noun Project
 
 Made with Stackbit and ♥
