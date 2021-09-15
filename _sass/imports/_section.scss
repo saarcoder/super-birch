@@ -156,7 +156,9 @@
 }
 
 @media only screen and (max-width: 768px) {
-    .sect
+    .section--form {
+        margin-bottom: 220px;
+    }
     .section--header .container--lg, .section--form .container--lg {
         margin: 0;
     }
