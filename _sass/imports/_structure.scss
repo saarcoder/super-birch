@@ -29,6 +29,10 @@
   max-width: $container-md;
 }
 
+.container p {
+    hyphens: auto;
+}
+
 #main-wrap {
   margin: 0 auto;
   max-width: 998px;
