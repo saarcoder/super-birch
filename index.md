@@ -7,7 +7,6 @@ sections:
     title: Namaste!
     content: >
       ** Herzlich willkommen, **
-
       ich würde mich freuen, mit dir mein Wissen zu erleben:
 
       durch die Yogapraxis kannst du jederzeit Ruhe finden. Du kannst ruhig
