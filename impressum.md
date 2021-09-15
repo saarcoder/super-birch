@@ -19,7 +19,7 @@ Das Site-Design wurde von Karina Pohl entwickelt und umgesetzt.
 
   
   
-Credits für graphisches Material:**
+**Credits für graphisches Material:**
 
 Telephone by Thomas Uebe from The Noun Project
 
