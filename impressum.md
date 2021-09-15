@@ -3,7 +3,7 @@ title: Impressum
 subtitle: ''
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: 'Impressum'
   description: ''
   robots: []
   extra: []
