@@ -17,6 +17,15 @@
   padding: 0 1.5rem 4rem 1.5rem;
 }
 
+
+
+#main-wrap {
+  margin: 0 auto;
+  max-width: 998px;
+  margin-bottom: 3rem;
+}
+
+@media only screen and (min-width: 767px) {
   .container {
     padding-left: $container-padding;
     padding-right: $container-padding;
@@ -26,15 +35,6 @@
     margin-left: 3rem;
     margin-right: 3rem;
   }
-
-#main-wrap {
-  margin: 0 auto;
-  max-width: 998px;
-  margin-bottom: 3rem;
-}
-
-@media only screen and (min-width: 767px) {
-
     
   .site-content {
     margin-top: -3rem;
