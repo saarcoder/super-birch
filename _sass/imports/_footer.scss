@@ -6,7 +6,10 @@
   width: calc(100% - 3rem);
   left: 0;
 
-
+  .container--lg {
+      margin: 0 auto;
+      width: 998px
+  }
 
   a {
     &:not(.button) {
@@ -89,13 +92,4 @@
         margin-top: 1rem;
       }
   }
-
-  @media only screen and (max-width: 1105px) {
-    .site-footer {
-      .container--lg {
-        margin: 0 auto;
-        width: 998px
-      }
-    }
-}
 }
