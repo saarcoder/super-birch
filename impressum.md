@@ -9,7 +9,6 @@ seo:
   extra: []
 layout: page
 ---
-## Impressum
 
 yoga-mit-shilpa.de wird von Shilpa Valia-Wendland betrieben.
 Das Urheberrecht / Copyright an Bild und Text-Daten liegt bei Shilpa Valia-Wendland.
