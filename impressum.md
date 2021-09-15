@@ -17,8 +17,8 @@ Die Verwendung - auch von Teilen - dieser Seite für gewerbliche und private Zwe
 
 Das Site-Design wurde von Karina Pohl entwickelt und umgesetzt.   
   
-  
-  
+
+
 **Credits für graphisches Material:**
 
 Telephone by Thomas Uebe from The Noun Project
