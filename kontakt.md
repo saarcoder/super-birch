@@ -20,7 +20,7 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: Wonach suchen Sie?
+        label: Wonach suchst Du?
         default_value: Bitte auswählen
         options:
           - Ayurveda-Beratung
