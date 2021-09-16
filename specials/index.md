@@ -2,7 +2,7 @@
 title: Specials
 subtitle: 'Gutscheine, Einladungen und Ankündigungen'
 hide_title: false
-col_number: two
+col_number: three
 seo:
   title: Specials
   description: Dies ist die Specials-Seite
