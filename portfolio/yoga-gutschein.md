@@ -12,7 +12,7 @@ sections:
     width: wide
   - type: text_section
     content: |
-      Hallo
+      # Hallo
 seo:
   title: Gutschein
   description: Freude verschenken mit einem Yoga-Gutschein
