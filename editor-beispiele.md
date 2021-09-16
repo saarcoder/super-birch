@@ -35,19 +35,19 @@ This is a paragraph. Malesuada bibendum arcu vitae elementum curabitur vitae nun
 
 Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
 
-## This is an H2
+## H2-Überschrift
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
 
-### This is an H3
+### H3-Überschrift
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
 
-#### This is an H4
+#### H4-Überschrift
 
 Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
 
-## Quoting
+## Zitate
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
 
-## Unordered and Ordered Lists
+## Ungeordnete und nummerierte Lists
 
 *   Donec non tortor in arcu mollis feugiat
 *   Lorem ipsum dolor sit amet, consectetuer adipiscing elit
@@ -73,7 +73,7 @@ Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar
 4.  Vivamus convallis urna id felis
 5.  Nulla porta tempus sapien
 
-## Code Blocks
+## Code-Blöcke
 
 Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
 
@@ -82,7 +82,7 @@ Blocks of code are either fenced by lines with three back-ticks, or are indented
       console.log(sequence[i]);
     }
 
-## Inline Elements
+## Inline-Elemente
 
 Emphasis, aka italics, with *asterisks* or *underscores*.
 
@@ -98,7 +98,7 @@ This is <mark>marked or highlighted</mark> text.
 
 This is [an example](http://example.com) link.
 
-## Tables
+## Tabellen
 
 <table>
     <caption>Table with thead, tfoot, and tbody</caption>
