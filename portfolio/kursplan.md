@@ -12,7 +12,7 @@ sections:
     width: wide
   - type: text_section
     content: >-
-      <div class="responsive-table">  \<table>    \<thead>      \<tr>       
+      <div class="responsive-table"><table>    \<thead>      \<tr>       
       \<th>Tag\</th>        \<th>Zeit\</th>        \<th>Ort\</th>      \</tr>   
       \</thead>    \<tbody>      \<tr>        \<td>Montag\</td>       
       \<td>18:30 - 20:00\</td>        \<td>\<p>Evangelische
