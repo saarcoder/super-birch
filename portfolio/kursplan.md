@@ -10,6 +10,7 @@ sections:
     image_alt: Kurse
     caption: 'Bild: Sunset Yoga von Andrew Kalat'
     width: wide
+    
 seo:
   title: Kursplan
   description: Übersicht über meine aktuellen Kurse
