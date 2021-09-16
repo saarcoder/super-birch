@@ -11,7 +11,7 @@ sections:
     caption: 'Bild: Sunset Yoga von Andrew Kalat'
     width: wide
   - type: text_section
-    content: >
+    content: >-
       \<div class="responsive-table">  \<table>    \<thead>      \<tr>       
       \<th>Tag\</th>        \<th>Zeit\</th>        \<th>Ort\</th>      \</tr>   
       \</thead>    \<tbody>      \<tr>        \<td>Montag\</td>       
