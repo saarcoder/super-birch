@@ -113,14 +113,6 @@
   }
 }
 
-@media only screen and (max-width: 767px) {  
-  .site-footer {
-    &__slogan {
-        margin-top: 1rem;
-      }
-  }
-}
-
 @media only screen and (min-width: 601px) {  
   .site-footer {
     padding: 2rem 0 1.5rem 0;
