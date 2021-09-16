@@ -19,7 +19,9 @@ layout: body
         
         {% assign component = section.type | append: ".html" %}
         {% include {{ component }} section=section site=site %}
-
+  <div class="text-block container container--md">
+        {{ page.content }}
+</div>
       {% endfor %}
   </div>
 
