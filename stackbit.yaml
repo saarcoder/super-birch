@@ -368,7 +368,6 @@ models:
           type: model
           models:
             - image_section
-            - content_section
       - type: model
         name: seo
         models:
