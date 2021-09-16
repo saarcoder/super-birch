@@ -19,7 +19,7 @@ sections:
       für Begegnung</p><p>Scheidterstr. 62 (Saarbrücken)</p><p><a
       href="https://goo.gl/maps/duq43J3zudk" target="_blank">››
       Anfahrt</a></p></td></tr></tbody><tfoot></tfoot> 
-      </table>\</div>
+      </table></div>
 seo:
   title: Kursplan
   description: Übersicht über meine aktuellen Kurse
