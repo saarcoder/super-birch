@@ -12,7 +12,7 @@ sections:
     width: wide
   - type: text_section
     content: |
-      # Hallo
+      #
 seo:
   title: Kursplan
   description: Übersicht über meine aktuellen Kurse
