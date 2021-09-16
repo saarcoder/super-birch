@@ -12,7 +12,6 @@ sections:
     width: wide
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
