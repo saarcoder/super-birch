@@ -19,12 +19,12 @@ layout: body
         
         {% assign component = section.type | append: ".html" %}
         {% include {{ component }} section=section site=site %}
+
+      {% endfor %}
+  </div>
   <div class="text-block container container--md">
         {{ page.content }}
 </div>
-      {% endfor %}
-  </div>
-
 </article>
 
 {% assign projects_sorted = '/portfolio' | get_pages | sort: 'date' | reverse %}
