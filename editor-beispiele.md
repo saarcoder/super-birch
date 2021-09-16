@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: Editor-Vorlage
 subtitle: >-
   Diese Editor-Vorlage soll zeigen, wie man im Editor Texte strukturieren kann.
   Sie ist außerdem eine gute Referenz für empfehlenswerte Typografie zum
