@@ -13,7 +13,7 @@ sections:
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
     width: regular
-  - content: >-
+content: >-
 seo:
   title: Kursplan
   description: Übersicht über meine aktuellen Kurse
