@@ -96,7 +96,7 @@ Inline-C`ode schreibt man mithilfe von Backticks vor und hinter dem Code`.
 
 Dies ist markierter oder hervorgehobener Text.
 
-Dies ist [ein Beispiels](http://example.com) -Linktext.
+Dies ist [ein Linkbeispiel](http://example.com).
 
 ## Tabellen
 
@@ -111,13 +111,13 @@ Dies ist [ein Beispiels](http://example.com) -Linktext.
   <tbody>
     <tr>
       <td>Tabellenkörper</td>
-      <td>Body content 2</td>
+      <td>Tabellenkörper 2</td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
-      <td>Footer content 1</td>
-      <td>Footer content 2</td>
+      <td>Fußzeile</td>
+      <td>Fußzeile 2</td>
     </tr>
   </tfoot>
 </table>
