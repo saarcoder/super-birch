@@ -14,7 +14,7 @@ sections:
     image_alt: lorem-ipsum
     type: content_section
     content: >-
-      <div class="responsive-table">
+        <div class="responsive-table">
         <table>
             <caption>Table with thead, tfoot, and tbody</caption>
             <thead>
