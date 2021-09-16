@@ -338,7 +338,7 @@ models:
     label: Project
     layout: project
     folder: portfolio
-    hideContent: true
+    hideContent: false
     fields:
       - type: string
         name: title
