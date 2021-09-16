@@ -265,6 +265,7 @@ models:
     layout: page
     exclude:
       - blog/**
+      - portfolio/**
     fields:
       - type: string
         name: title
