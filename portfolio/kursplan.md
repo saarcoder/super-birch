@@ -13,7 +13,7 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     type: content_section
-    content: >
+    content: >-
       <div class="responsive-table">
   <table>
       <caption>Table with thead, tfoot, and tbody</caption>
