@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
 
-## Ungeordnete und nummerierte Lists
+## Ungeordnete vs. nummerierte Lists
 
 *   Donec non tortor in arcu mollis feugiat
 *   Lorem ipsum dolor sit amet, consectetuer adipiscing elit
@@ -75,7 +75,7 @@ Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar
 
 ## Code-Blöcke
 
-Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
+Code-Blöcke werden entweder mit drei "Backticks" umrahmt oder durch vier Leerzeichen eingeleitet.
 
     let sequence = [1, 1, 2, 3, 5, 8, 13];
     for (let i = 0; i < sequence.length; i++) {
@@ -84,33 +84,33 @@ Blocks of code are either fenced by lines with three back-ticks, or are indented
 
 ## Inline-Elemente
 
-Emphasis, aka italics, with *asterisks* or *underscores*.
+Betonungen - englisch italics - kennzeichnet man entweder durch *Asterix* oder *Unterstreichung*.
 
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
+Fettdruck-Texte schreibt man mit **Asterixen** oder **Unterstreichungen**.
 
-Combined emphasis with ***asterisks and underscores***.
+Kombiniert mit ***Asterixen und Unterstreichungen***.
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+Durchgestrichenen Text erzeugt man durch zwei Tilden. ~~Scratch this.~~
 
-Inline `code with back-ticks around` it.
+Inline-C`ode schreibt man mithilfe von Backticks vor und hinter dem Code`.
 
-This is <mark>marked or highlighted</mark> text.
+Dies ist markierter oder hervorgehobener Text.
 
-This is [an example](http://example.com) link.
+Dies ist [ein Beispiels](http://example.com) -Linktext.
 
 ## Tabellen
 
 <table>
-    <caption>Table with thead, tfoot, and tbody</caption>
+    <caption>Tabelle mit thead, tfoot, und tbody</caption>
   <thead>
     <tr>
-      <th>New Header content 1</th>
-      <th>Header content 2</th>
+      <th>Kopftext</th>
+      <th>Kopftext 2</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Body content 1</td>
+      <td>Tabellenkörper</td>
       <td>Body content 2</td>
     </tr>
   </tbody>
