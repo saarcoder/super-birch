@@ -17,7 +17,7 @@ sections:
       href="https://goo.gl/maps/83xotMyjPzG2" target="_blank">››
       Anfahrt</a></p></td></tr><tr><td>Mittwoch</td><td>18:45 - 20:15</td><td><p>Raum
       für Begegnung</p><p>Scheidterstr. 62 (Saarbrücken)</p><p><a
-      href="https://goo.gl/maps/duq43J3zudk" target="\_blank">››
+      href="https://goo.gl/maps/duq43J3zudk" target="_blank">››
       Anfahrt\</a>\</p>\</td>      \</tr>    \</tbody>    \<tfoot>    \</tfoot> 
       \</table>\</div>
 seo:
