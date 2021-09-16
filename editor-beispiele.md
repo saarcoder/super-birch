@@ -90,7 +90,7 @@ Fettdruck-Texte schreibt man mit **Asterixen** oder **Unterstreichungen**.
 
 Kombiniert mit ***Asterixen und Unterstreichungen***.
 
-Durchgestrichenen Text erzeugt man durch zwei Tilden. ~~Scratch this.~~
+Durchgestrichenen Text erzeugt man durch zwei Tilden. ~~Durchgestrichen~~
 
 Inline-C`ode schreibt man mithilfe von Backticks vor und hinter dem Code`.
 
