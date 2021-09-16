@@ -11,7 +11,113 @@ sections:
     caption: 'Bild: Sunset Yoga von Andrew Kalat'
     width: wide
   - type: text_section
-    content: ''
+    content: >+
+      div class="responsive-table">TagZeitOrtMontag18:30 -
+      20:00\</td>Evangelische
+
+      FamilienbildungsstätteMainzer Str. 269 (Saarbrücken)››
+
+      AnfahrtMittwoch18:45 - 20:15Raum
+
+      für BegegnungScheidterstr. 62 (Saarbrücken)››
+
+      Anfahrt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 seo:
   title: Kursplan
   description: Übersicht über meine aktuellen Kurse
