@@ -13,42 +13,7 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     type: content_section
-    content: >
-            <div class="responsive-table">
-                <table>
-                    <caption>Table with thead, tfoot, and tbody</caption>
-                    <thead>
-                    <tr>
-                        <th>Header content</th>
-                        <th>Header content</th>
-                        <th>Header content</th>
-                        <th>Header content</th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <tr>
-                        <td>Body content</td>
-                        <td>Body content</td>
-                        <td>Body content</td>
-                        <td>Body content</td>
-                    </tr>
-                    <tr>
-                        <td>Body content</td>
-                        <td>Body content</td>
-                        <td>Body content</td>
-                        <td>Body content</td>
-                    </tr>
-                    </tbody>
-                    <tfoot>
-                    <tr>
-                        <td>Footer content</td>
-                        <td>Footer content</td>
-                    <td>Footer content</td>
-                    <td>Footer content</td>
-                    </tr>
-                    </tfoot>
-                </table>
-                </div>
+    content: >-
 seo:
   title: Kursplan
   description: Übersicht über meine aktuellen Kurse
