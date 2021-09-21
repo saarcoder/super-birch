@@ -33,12 +33,19 @@ seo:
       value: >-
         Yogalehrerin in Saarbr&uuml;cken f&uuml;r Yoga mit Anusara-Elementen, Hormonyoga, Yogatherapie. Gewinne durch Yoga an Ruhe, Kraft und Wohlbefinden.
       keyName: property
+    - name: 'og:image'
+      value: images/lotos.png
+      keyName: property
+      relativeUrl: true
     - name: 'twitter:card'
-      value: summary
+      value: summary_large_image
     - name: 'twitter:title'
       value: Yoga mit Shilpa!
     - name: 'twitter:description'
       value: >-
         Yogalehrerin in Saarbr&uuml;cken f&uuml;r Yoga mit Anusara-Elementen, Hormonyoga, Yogatherapie. Gewinne durch Yoga an Ruhe, Kraft und Wohlbefinden.
+    - name: 'twitter:image'
+      value: images/lotos.png
+      relativeUrl: true
 layout: advanced
 ---
