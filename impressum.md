@@ -22,7 +22,7 @@ Adaption und Jamstack-Integration: Alexander Kimoto.
 <hr />
 **Credits für graphisches Material:**
 
-Sunset Yoga von Andrew Kalat, Lizenz: [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/deed.de)
+Sunset Yoga von [Andrew Kalat](https://www.flickr.com/photos/90811165@N00), Lizenz: [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/deed.de)
 
 yoga-triangle-pose von [Jasmine Kaloudis](https://www.flickr.com/photos/synergybyjasmine/) (Synergy by Jasmine), Lizenz: [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/deed.de)
 
