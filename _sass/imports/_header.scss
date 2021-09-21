@@ -50,6 +50,7 @@
 
 .navbar {
   padding-top: 1.9rem;
+  margin-top: 0;
   -ms-flex-align: center;
   align-items: center;
   display: -ms-flexbox;
@@ -104,6 +105,7 @@
 @media only screen and (min-width: 768px) {
   .navbar {
     padding-left: 1.5rem;
+    margin-top: 3rem;
 
     &__toggle {
       display: none;
