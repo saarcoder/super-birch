@@ -1,4 +1,4 @@
-# ✨ diligent-artichoke ✨
+# ✨ Yoga mit Shilpa! ✨
 
 <img src="/images/yoga-mit-shilpa-1024x843.png" width="600">
 
