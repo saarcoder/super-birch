@@ -1,6 +1,6 @@
 # ✨ Yoga mit Shilpa! ✨
 
-<img src="/images/yoga-mit-shilpa_1024x875.png" width="600">
+<img src="/images/yoga-mit-shilpa_1024x876.png" width="600">
 
 [Jekyll](https://jekyllrb.com)-Seite mit Git als [CMS](https://en.wikipedia.org/wiki/Content_management_system). Seiten-Editor: [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes). Build-Zeit: unter einer Minute.
 
